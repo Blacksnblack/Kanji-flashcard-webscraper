@@ -1,0 +1,3232 @@
+藤~kun: ふじ
+on: トウ, ドウ
+meaning: wisteria
+
+伊~kun: かれ
+on: イ
+meaning: Italy, that one
+
+奈~kun: いかん, からなし
+on: ナ, ナイ, ダイ
+meaning: Nara, what?
+
+鹿~kun: しか, か
+on: ロク
+meaning: deer
+
+智~kun: しか, か
+on: チ
+meaning: wisdom, intellect, reason
+
+弘~kun: ひろ.い
+on: コウ, グ
+meaning: vast, broad, wide
+
+韓~kun: から, いげた
+on: カン
+meaning: Korea
+
+岡~kun: おか
+on: コウ
+meaning: mount, hill, knoll
+
+熊~kun: くま
+on: ユウ
+meaning: bear
+
+彦~kun: ひこ
+on: ゲン
+meaning: lad, boy (ancient)
+
+阿~kun: おもね.る, くま
+on: ア, オ
+meaning: Africa, flatter, fawn upon, corner, nook, recess
+
+阪~kun: さか
+on: ハン
+meaning: heights, slope
+
+李~kun: すもも
+on: リ
+meaning: plum
+
+浩~kun: おおき.い, ひろ.い
+on: コウ
+meaning: wide expanse, abundance, vigorous
+
+宏~kun: ひろ.い
+on: コウ
+meaning: wide, large
+
+之~kun: の, これ, おいて, ゆく, この
+on: シ
+meaning: of, this
+
+梨~kun: なし
+on: リ
+meaning: pear tree
+
+須~kun: すべから.く, すべし, ひげ, まつ, もち.いる, もと.める
+on: ス, シュ
+meaning: ought, by all means, necessarily
+
+亀~kun: かめ
+on: キ, キュウ, キン
+meaning: tortoise, turtle
+
+鶴~kun: つる
+on: カク
+meaning: crane, stork
+
+昌~kun: さかん
+on: ショウ
+meaning: prosperous, bright, clear
+
+靖~kun: やす.んじる
+on: セイ, ジョウ
+meaning: peaceful
+
+也~kun: なり, か, また
+on: ヤ, エ
+meaning: to be (classical)
+
+旭~kun: あさひ
+on: キョク
+meaning: rising sun, morning sun
+
+錦~kun: にしき
+on: キン
+meaning: brocade, fine dress, honors
+
+磯~kun: いそ
+on: キ
+meaning: seashore, beach
+
+駒~kun: こま
+on: ク
+meaning: pony, horse, colt
+
+聡~kun: さと.い, みみざと.い
+on: ソウ
+meaning: wise, fast learner
+
+曙~kun: あけぼの
+on: ショ
+meaning: dawn, daybreak
+
+萩~kun: はぎ
+on: シュウ
+meaning: bush clover
+
+栗~kun: くり, おののく
+on: リツ, リ
+meaning: chestnut
+
+嘉~kun: よみ.する, よい
+on: カ
+meaning: applaud, praise, esteem
+
+鎌~kun: かま
+on: レン, ケン
+meaning: sickle, scythe, trick
+
+埼~kun: さき, さい, みさき
+on: キ
+meaning: cape, spit, promontory
+
+辰~kun: たつ
+on: シン, ジン
+meaning: sign of the dragon, 7-9AM, fifth sign of Chinese zodiac, shin dragon radical (no. 161)
+
+霞~kun: かすみ, かす.む
+on: カ, ゲ
+meaning: be hazy, grow dim, blurred
+
+那~kun: なに, なんぞ, いかん
+on: ナ, ダ
+meaning: what?
+
+淳~kun: あつ.い
+on: ジュン, シュン
+meaning: pure
+
+鳩~kun: はと, あつ.める
+on: キュウ, ク
+meaning: pigeon, dove
+
+桂~kun: かつら
+on: ケイ
+meaning: Japanese Judas-tree, cinnamon tree
+
+虎~kun: とら
+on: コ
+meaning: tiger, drunkard
+
+晋~kun: すす.む
+on: シン
+meaning: advance
+
+晃~kun: あきらか
+on: コウ
+meaning: clear
+
+桐~kun: きり
+on: トウ, ドウ
+meaning: paulownia
+
+鷹~kun: たか
+on: ヨウ, オウ
+meaning: hawk
+
+猪~kun: い, いのしし
+on: チョ
+meaning: boar
+
+紘~kun: おおづな, つな, つなぐ
+on: コウ
+meaning: large
+
+弥~kun: いや, や, あまねし, いよいよ, とおい, ひさし, ひさ.しい, わた.る
+on: ミ, ビ
+meaning: all the more, increasingly
+
+庄~kun: いや, や, あまねし, いよいよ, とおい, ひさし, ひさ.しい, わた.る
+on: ショウ, ソ, ソウ, ホウ
+meaning: level
+
+敦~kun: あつ.い
+on: トン, タイ, ダン, チョウ
+meaning: industry, kindliness
+
+祐~kun: たす.ける
+on: ユウ, ウ
+meaning: help
+
+鵬~kun: おおとり
+on: ホウ
+meaning: phoenix
+
+亘~kun: わた.る, もと.める
+on: コウ, カン
+meaning: span, request
+
+媛~kun: ひめ
+on: エン
+meaning: beautiful woman, princess
+
+笹~kun: ささ
+on: エン
+meaning: bamboo grass
+
+綾~kun: あや
+on: リン
+meaning: design, figured cloth, twill
+
+毅~kun: つよ.い
+on: キ, ギ
+meaning: strong
+
+稔~kun: みの.る, みのり
+on: ネン, ジン, ニン
+meaning: harvest, ripen
+
+楊~kun: かわ, やなぎ
+on: ヨウ
+meaning: willow
+
+駿~kun: すぐ.れる
+on: シュン, スン
+meaning: a good horse, speed, a fast person
+
+亮~kun: あきらか
+on: リョウ
+meaning: clear, help
+
+茨~kun: いばら, かや, くさぶき
+on: シ, ジ
+meaning: briar, thorn
+
+吾~kun: われ, わが-, あ-
+on: ゴ
+meaning: I, my, our, one's own
+
+椿~kun: つばき
+on: チン, チュン
+meaning: camellia
+
+圭~kun: つばき
+on: ケイ, ケ
+meaning: square jewel, corner, angle, edge
+
+蓮~kun: はす, はちす
+on: レン
+meaning: lotus
+
+菱~kun: ひし
+on: リョウ
+meaning: diamond (shape), water chestnut, rhombus
+
+瑞~kun: みず-, しるし
+on: ズイ, スイ
+meaning: congratulations
+
+伍~kun: いつつ
+on: ゴ
+meaning: 5, 5-man squad, file, line
+
+蘭~kun: いつつ
+on: ラン, ラ
+meaning: orchid, Holland
+
+秦~kun: はた
+on: シン
+meaning: Manchu dynasty, name given to naturalized foreigners
+
+茅~kun: かや, ちがや
+on: ボウ, ミョウ
+meaning: miscanthus reed
+
+沙~kun: すな, よなげる
+on: サ, シャ
+meaning: sand
+
+輔~kun: たす.ける
+on: ホ, フ
+meaning: help
+
+嵐~kun: あらし
+on: ラン
+meaning: storm, tempest
+
+椎~kun: つち, う.つ
+on: ツイ, スイ
+meaning: oak, mallet
+
+郁~kun: つち, う.つ
+on: イク
+meaning: cultural progress, perfume
+
+楠~kun: くす, くすのき
+on: ナン, ダン, ゼン, ネン
+meaning: camphor tree
+
+玲~kun: くす, くすのき
+on: レイ
+meaning: sound of jewels
+
+幌~kun: ほろ, とばり
+on: コウ
+meaning: canopy, awning, hood, curtain
+
+拳~kun: こぶし
+on: ケン, ゲン
+meaning: fist
+
+翔~kun: かけ.る, と.ぶ
+on: ショウ
+meaning: soar, fly
+
+肇~kun: はじ.める, はじめ
+on: チョウ, ジョウ, トウ
+meaning: beginning
+
+曽~kun: かつ, かつて, すなわち
+on: ソウ, ソ, ゾウ
+meaning: formerly, once, before, ever, never, ex-
+
+亨~kun: たてまつ.る
+on: コウ, キョウ, ホウ
+meaning: undergo, answer (phone), take, get, catch
+
+嶺~kun: たてまつ.る
+on: レイ, リョウ
+meaning: peak, summit
+
+喬~kun: たか.い
+on: キョウ
+meaning: high, boasting
+
+寅~kun: とら
+on: イン
+meaning: sign of the tiger, 3-5AM, third sign of Chinese zodiac
+
+乃~kun: の, すなわ.ち, なんじ
+on: ナイ, ダイ, ノ, アイ
+meaning: from, possessive particle, whereupon, accordingly
+
+洲~kun: しま
+on: シュウ, ス
+meaning: continent, sandbar, island, country
+
+梶~kun: かじ, こずえ
+on: ビ
+meaning: sculling oar
+
+樺~kun: かば, かんば
+on: カ
+meaning: birch
+
+槙~kun: まき, こずえ
+on: テン, シン
+meaning: twig, ornamental evergreen
+
+巌~kun: いわ, いわお, けわ.しい
+on: ガン
+meaning: rock, crag, boulder
+
+睦~kun: むつ.まじい, むつ.む, むつ.ぶ
+on: ボク, モク
+meaning: intimate, friendly, harmonious
+
+胡~kun: なんぞ
+on: ウ, コ, ゴ
+meaning: barbarian, foreign
+
+峻~kun: けわ.しい, たか.い
+on: シュン
+meaning: high, steep
+
+槻~kun: つき
+on: キ
+meaning: Zelkova tree
+
+蝶~kun: つき
+on: チョウ
+meaning: butterfly
+
+琢~kun: みが.く
+on: タク
+meaning: polish
+
+蕉~kun: みが.く
+on: ショウ
+meaning: banana
+
+琉~kun: みが.く
+on: リュウ, ル
+meaning: precious stone, gem, lapis lazuli
+
+朋~kun: とも
+on: ホウ
+meaning: companion, friend
+
+藍~kun: あい
+on: ラン
+meaning: indigo
+
+遼~kun: あい
+on: リョウ
+meaning: distant
+
+唄~kun: うた, うた.う
+on: バイ
+meaning: songs with samisen
+
+栃~kun: とち
+on: バイ
+meaning: horse chestnut, (kokuji)
+
+橘~kun: たちばな
+on: キツ
+meaning: mandarin orange
+
+漱~kun: くちすす.ぐ, くちそそ.ぐ, うがい, すす.ぐ
+on: ソウ, シュウ, ス
+meaning: gargle, rinse mouth
+
+呂~kun: せぼね
+on: ロ, リョ
+meaning: spine, backbone
+
+苑~kun: その, う.つ
+on: エン, オン
+meaning: garden, farm, park
+
+巽~kun: たつみ
+on: ソン
+meaning: southeast
+
+杜~kun: もり, ふさ.ぐ, やまなし
+on: ト, トウ, ズ
+meaning: woods, grove
+
+瞳~kun: ひとみ
+on: ドウ, トウ
+meaning: pupil
+
+湧~kun: わ.く
+on: ユウ, ヨウ, ユ
+meaning: boil, ferment, seethe, uproar, breed
+
+欣~kun: よろこ.ぶ, よろこ.び
+on: キン, ゴン, コン
+meaning: take pleasure in, rejoice
+
+孜~kun: つと.める
+on: シ
+meaning: industriousness
+
+巴~kun: ともえ, うずまき
+on: ハ
+meaning: comma-design
+
+禎~kun: さいわ.い
+on: テイ
+meaning: happiness, blessed, good fortune, auspicious
+
+稜~kun: いつ, かど
+on: リョウ, ロウ
+meaning: angle, edge, corner, power, majesty
+
+倭~kun: したが.う
+on: ワ, イ
+meaning: Yamato, ancient Japan
+
+斐~kun: したが.う
+on: ヒ, イ
+meaning: beautiful, patterned
+
+魁~kun: さきがけ, かしら
+on: カイ
+meaning: charging ahead of others
+
+虹~kun: にじ
+on: コウ
+meaning: rainbow
+
+鴻~kun: おおとり, ひしくい, おおがり
+on: コウ, ゴウ
+meaning: large bird, wild goose, large, great, powerful, prosperous
+
+於~kun: おい.て, お.ける, ああ, より
+on: オ, ヨ
+meaning: at, in, on, as for
+
+赳~kun: おい.て, お.ける, ああ, より
+on: キュウ
+meaning: strong and brave
+
+葵~kun: あおい
+on: キ
+meaning: hollyhock
+
+笠~kun: かさ
+on: リュウ
+meaning: bamboo hat, one's influence
+
+禄~kun: さいわ.い, ふち
+on: ロク
+meaning: fief, allowance, pension, grant, happiness
+
+孟~kun: かしら
+on: モウ, ボウ, ミョウ
+meaning: chief, beginning
+
+尭~kun: たか.い
+on: ギョウ
+meaning: high, far
+
+巳~kun: み
+on: シ
+meaning: sign of the snake or serpent, 9-11AM, sixth sign of Chinese zodiac
+
+暢~kun: のび.る
+on: チョウ
+meaning: stretch
+
+筑~kun: のび.る
+on: チク
+meaning: an ancient musical instrument
+
+阜~kun: のび.る
+on: フ, フウ
+meaning: hill, mound, left village radical (no. 170)
+
+芹~kun: せり
+on: キン
+meaning: parsley
+
+杏~kun: あんず
+on: キョウ, アン, コウ
+meaning: apricot
+
+鳳~kun: あんず
+on: ホウ, フウ
+meaning: male mythical bird
+
+馨~kun: かお.る, かおり
+on: ケイ, キョウ
+meaning: fragrant, balmy, favourable
+
+慧~kun: さとい
+on: ケイ, エ
+meaning: wise
+
+葛~kun: つづら, くず
+on: カツ, カチ
+meaning: arrowroot, kudzu
+
+彬~kun: うるわ.しい, あき.らか
+on: ヒン, フン
+meaning: refined, gentle
+
+匡~kun: すく.う
+on: キョウ, オウ
+meaning: correct, save, assist
+
+眉~kun: まゆ
+on: ビ, ミ
+meaning: eyebrow
+
+欽~kun: つつし.む
+on: キン, コン
+meaning: respect, revere, long for
+
+篠~kun: しの, ささ, すず
+on: ゾウ, ショウ
+meaning: also N3428, bamboo grass
+
+菅~kun: すげ
+on: カン, ケン
+meaning: sedge
+
+嵯~kun: すげ
+on: サ, シ
+meaning: steep, craggy, rugged
+
+綜~kun: おさ.める, す.べる
+on: ソウ
+meaning: rule
+
+翠~kun: かわせみ, みどり
+on: スイ
+meaning: green
+
+鮎~kun: あゆ, なまず
+on: デン, ネン
+meaning: freshwater trout, smelt
+
+榛~kun: はしばみ, はり
+on: シン, ハン
+meaning: hazelnut, filbert
+
+艶~kun: つや, なま.めかしい, あで.やか, つや.めく, なま.めく
+on: エン
+meaning: glossy, luster, glaze, polish, charm, colorful, captivating
+
+俣~kun: また
+on: エン
+meaning: crotch, thigh, groin, (kokuji)
+
+惣~kun: いそが.しい, そうじて
+on: ソウ
+meaning: all
+
+蔦~kun: つた
+on: チョウ
+meaning: vine, ivy
+
+淵~kun: ふち, かた.い, はなわ
+on: エン, カク, コウ
+meaning: abyss, edge, deep pool, the depths
+
+隼~kun: はやぶさ
+on: シュン, ジュン
+meaning: falcon
+
+渚~kun: なぎさ
+on: ショ
+meaning: strand, beach, shore
+
+柏~kun: かしわ
+on: ハク, ヒャク, ビャク
+meaning: oak
+
+稀~kun: まれ, まばら
+on: キ, ケ
+meaning: rare, phenomenal, dilute (acid)
+
+芙~kun: まれ, まばら
+on: フ
+meaning: lotus, Mt Fuji
+
+辻~kun: つじ
+on: フ
+meaning: crossing, crossroad, street corners, (kokuji)
+
+皐~kun: さつき
+on: コウ
+meaning: swamp, shore
+
+雛~kun: ひな, ひよこ
+on: スウ, ス, ジュ
+meaning: chick, squab, duckling, doll
+
+惟~kun: おも.んみる, これ, おも.うに
+on: イ, ユイ
+meaning: consider, reflect, think
+
+佑~kun: たす.ける
+on: ユウ, ウ
+meaning: help, assist
+
+耀~kun: かがや.く, ひかり
+on: ヨウ
+meaning: shine, sparkle, gleam, twinkle
+
+黛~kun: まゆずみ
+on: タイ
+meaning: blackened eyebrows
+
+荻~kun: おぎ
+on: テキ
+meaning: reed, rush
+
+渥~kun: あつ.い, うるお.う
+on: アク
+meaning: kindness
+
+憧~kun: あこが.れる
+on: ショウ, トウ, ドウ
+meaning: yearn after, long for, aspire to, admire, adore
+
+柴~kun: しば
+on: サイ, シ
+meaning: brush, firewood
+
+惇~kun: あつ.い
+on: シュン, ジュン, トン
+meaning: sincere, kind, considerate
+
+脩~kun: おさ.める, なが.い, ほじし
+on: シュウ
+meaning: dried meat
+
+甫~kun: はじ.めて
+on: ホ, フ
+meaning: for the first time, not until
+
+嬉~kun: うれ.しい, たの.しむ
+on: キ
+meaning: glad, pleased, rejoice
+
+蒼~kun: あお.い
+on: ソウ
+meaning: blue, pale
+
+暉~kun: かが.やく
+on: キ
+meaning: shine, light
+
+只~kun: ただ
+on: シ
+meaning: only, free, in addition
+
+檀~kun: まゆみ
+on: ダン, タン
+meaning: cedar, sandlewood, spindle tree
+
+凱~kun: かちどき, やわらぐ
+on: ガイ, カイ
+meaning: victory song
+
+彗~kun: ほうき
+on: スイ, エ, ケイ, セイ
+meaning: comet
+
+梓~kun: あずさ
+on: シ
+meaning: catalpa tree
+
+丑~kun: うし
+on: チュウ
+meaning: sign of the ox or cow, 1-3AM, second sign of Chinese zodiac
+
+畿~kun: みやこ
+on: キ
+meaning: capital, suburbs of capital
+
+叶~kun: かな.える, かな.う
+on: キョウ
+meaning: grant, answer
+
+汐~kun: しお, うしお, せい
+on: セキ
+meaning: eventide, tide, salt water, opportunity
+
+絢~kun: しお, うしお, せい
+on: ケン
+meaning: kimono design
+
+朔~kun: ついたち
+on: サク
+meaning: conjunction (astronomy), first day of month
+
+伽~kun: とぎ
+on: カ, ガ, キャ, ギャ
+meaning: nursing, attending, entertainer
+
+磐~kun: いわ
+on: バン, ハン
+meaning: rock, crag, cliff, wall (in a mine)
+
+爽~kun: あき.らか, さわ.やか, たがう
+on: ソウ
+meaning: refreshing, bracing, resonant, sweet, clear
+
+黎~kun: くろ.い
+on: レイ, リ
+meaning: dark, black, many
+
+冴~kun: さ.える, こお.る, ひ.える
+on: ゴ, コ
+meaning: be clear, serene, cold, skilful
+
+旺~kun: かがや.き, うつくし.い, さかん
+on: オウ, キョウ, ゴウ
+meaning: flourishing, successful, beautiful, vigorous
+
+萌~kun: も.える, きざ.す, めばえ, きざ.し
+on: ホウ
+meaning: show symptoms of, sprout, bud, malt
+
+偲~kun: しの.ぶ
+on: サイ, シ
+meaning: recollect, remember
+
+瑠~kun: しの.ぶ
+on: ル, リュウ
+meaning: lapis lazuli
+
+鄭~kun: しの.ぶ
+on: テイ, ジョウ
+meaning: an ancient Chinese province
+
+芦~kun: あし, よし
+on: ロ
+meaning: reed, bullrush
+
+允~kun: じょう, まこと.に, ゆるす
+on: イン
+meaning: license, sincerity, permit
+
+蒔~kun: う.える, まく
+on: シ, ジ
+meaning: sow (seeds)
+
+鯉~kun: こい
+on: リ
+meaning: carp
+
+柿~kun: かき, こけら
+on: シ
+meaning: persimmon, shingle
+
+釧~kun: くしろ, うでわ
+on: セン
+meaning: bracelet
+
+遥~kun: はる.か
+on: ヨウ
+meaning: far off, distant, long ago
+
+矩~kun: かね, かねざし, さしがね
+on: ク
+meaning: ruler, carpenter's square
+
+腎~kun: かね, かねざし, さしがね
+on: ジン
+meaning: kidney
+
+舜~kun: かね, かねざし, さしがね
+on: シュン
+meaning: type of morning glory, rose of Sharon, althea
+
+釜~kun: かま
+on: フ
+meaning: kettle, cauldron, iron pot
+
+瑛~kun: かま
+on: エイ
+meaning: sparkle of jewelry, crystal
+
+彪~kun: あや
+on: ヒョウ, ヒュウ
+meaning: spotted, mottled, patterned, small tiger
+
+卯~kun: う
+on: ボウ, モウ
+meaning: sign of the hare or rabbit, 5-7AM, fourth sign of Chinese zodiac, east
+
+函~kun: はこ, い.れる
+on: カン
+meaning: box (archaic)
+
+綺~kun: あや
+on: キ
+meaning: figured cloth, beautiful
+
+茜~kun: あかね
+on: セン
+meaning: madder, red dye, Turkey red
+
+鴨~kun: かも, あひる
+on: オウ
+meaning: wild duck, easy mark
+
+凌~kun: しの.ぐ
+on: リョウ
+meaning: endure, keep (rain)out, stave off, tide over, defy, slight, surpass
+
+皓~kun: しろ.い, ひか.る
+on: コウ
+meaning: white, clear
+
+洸~kun: しろ.い, ひか.る
+on: コウ
+meaning: sparkling water
+
+脇~kun: わき, わけ
+on: キョウ
+meaning: armpit, the other way, another place, flank, supporting role
+
+毬~kun: いが, まり
+on: キュウ
+meaning: burr, ball
+
+鍋~kun: なべ
+on: カ
+meaning: pot, pan, kettle
+
+樋~kun: ひ, とい
+on: トウ
+meaning: water pipe, gutter, downspout, conduit
+
+緋~kun: あけ, あか
+on: ヒ
+meaning: scarlet, cardinal
+
+鯛~kun: たい
+on: チョウ
+meaning: sea bream, red snapper
+
+怜~kun: あわ.れむ, さと.い
+on: レイ, レン, リョウ
+meaning: wise
+
+邑~kun: うれ.える, くに, むら
+on: ユウ
+meaning: village, rural community, right village radical (no. 163)
+
+碧~kun: うれ.える, くに, むら
+on: ヘキ, ヒャク
+meaning: blue, green
+
+啄~kun: ついば.む, つつ.く
+on: タク, ツク, トク
+meaning: peck, pick up
+
+穣~kun: わら, ゆたか
+on: ジョウ
+meaning: good crops, prosperity, 10**28
+
+酉~kun: とり
+on: ユウ
+meaning: west, bird, sign of the bird, 5-7PM, tenth sign of Chinese zodiac, sake radical (no. 164)
+
+堺~kun: さかい
+on: カイ
+meaning: world
+
+悌~kun: さかい
+on: テイ, ダイ
+meaning: serving our elders
+
+瓦~kun: かわら, ぐらむ
+on: ガ
+meaning: tile, gram
+
+窪~kun: くぼ.む, くぼ.み, くぼ.まる, くぼ
+on: ワ, ア
+meaning: depression, cave in, sink, become hollow
+
+雀~kun: すずめ
+on: ジャク, ジャン, サク, シャク
+meaning: sparrow
+
+畠~kun: はたけ, はた
+on: ジャク, ジャン, サク, シャク
+meaning: field, farm, garden, (kokuji)
+
+柚~kun: ゆず
+on: ユ, ユウ, ジク
+meaning: citron
+
+亥~kun: い
+on: ガイ, カイ
+meaning: sign of the hog, 9-11PM, twelfth sign of the Chinese zodiac
+
+胤~kun: たね
+on: イン
+meaning: descendent, issue, offspring
+
+叡~kun: あき.らか
+on: エイ
+meaning: intelligence, imperial
+
+茄~kun: あき.らか
+on: カ
+meaning: eggplant
+
+侃~kun: つよ.い
+on: カン
+meaning: strong, just, righteous, peace-loving
+
+莞~kun: い
+on: カン
+meaning: smiling, reed used to cover tatami
+
+伎~kun: わざ, わざおぎ
+on: ギ, キ
+meaning: deed, skill
+
+誼~kun: よしみ, よい
+on: ギ
+meaning: friendship, intimacy
+
+鞠~kun: まり
+on: キク, キュウ
+meaning: ball
+
+衿~kun: えり
+on: キン, コン
+meaning: neck, collar, lapel
+
+玖~kun: えり
+on: キュウ, ク
+meaning: beautiful black jewel, nine
+
+袈~kun: えり
+on: ケ, カ
+meaning: a coarse camlet
+
+絃~kun: いと
+on: ゲン
+meaning: string, cord, samisen music
+
+梧~kun: あおぎり
+on: ゴ
+meaning: Chinese parasol tree, phoenix tree
+
+瑚~kun: あおぎり
+on: コ, ゴ
+meaning: ancestral offering receptacle
+
+倖~kun: しあわ.せ, さいわ.い
+on: コウ
+meaning: happiness, luck
+
+昂~kun: あ.がる, たか.い, たか.ぶる
+on: コウ, ゴウ
+meaning: rise
+
+瑳~kun: みが.く
+on: サ
+meaning: polish
+
+裟~kun: みが.く
+on: サ, シャ
+meaning: Buddhist surplice
+
+哉~kun: かな, や
+on: サイ
+meaning: how, what, alas, "?" (question mark)
+
+采~kun: と.る, いろどり
+on: サイ
+meaning: dice, form, appearance, take, coloring
+
+燦~kun: さん.たる, あき.らか, きらめ.く, きら.めく
+on: サン
+meaning: brilliant
+
+爾~kun: なんじ, しかり, その, のみ, おれ しか
+on: ジ, ニ
+meaning: you, thou, second person
+
+紗~kun: うすぎぬ
+on: サ, シャ
+meaning: gauze, gossamer
+
+竣~kun: わらわ, わらべ, おわ.る
+on: ドウ, シュン
+meaning: end, finish
+
+醇~kun: もっぱら, こい, あつい
+on: ジュン, シュン
+meaning: pure sake', purity, affection
+
+恕~kun: ゆる.す
+on: ジョ, ショ
+meaning: excuse, tolerate, forgive
+
+捷~kun: はや.い
+on: ショウ, ソウ
+meaning: victory, fast
+
+梢~kun: こずえ, くすのき
+on: ショウ
+meaning: treetops, twig
+
+菖~kun: こずえ, くすのき
+on: ショウ
+meaning: iris
+
+丞~kun: すく.う, たす.ける
+on: ジョウ, ショウ
+meaning: help
+
+嵩~kun: かさ, かさ.む, たか.い
+on: スウ, シュウ
+meaning: be aggravated, grow worse, grow bulky, swell
+
+碩~kun: おお.きい
+on: セキ
+meaning: large, great, eminent
+
+汰~kun: おご.る, にご.る, よな.げる
+on: タ, タイ
+meaning: luxury, select
+
+旦~kun: あき.らか, あきら, ただし, あさ, あした
+on: タン, ダン
+meaning: daybreak, dawn, morning
+
+紬~kun: つむぎ, つむ.ぐ
+on: チュウ
+meaning: pongee (a knotted silk cloth)
+
+汀~kun: みぎわ, なぎさ
+on: テイ
+meaning: water's edge, shore, bank
+
+凪~kun: なぎ, な.ぐ
+on: テイ
+meaning: lull, calm, (kokuji)
+
+捺~kun: さ.す, お.す
+on: ナツ, ダツ
+meaning: press, print, affix a seal, stamp
+
+柊~kun: ひいらぎ
+on: シュ, シュウ
+meaning: holly
+
+楓~kun: かえで
+on: フウ
+meaning: maple
+
+蕗~kun: ふき
+on: ロ, ル
+meaning: butterbur, bog rhubarb
+
+柾~kun: まさ, まさめ, まさき
+on: ロ, ル
+meaning: straight grain, spindle tree, (kokuji)
+
+亦~kun: また
+on: エキ, ヤク
+meaning: also, again
+
+麿~kun: まろ
+on: エキ, ヤク
+meaning: I, you, (kokuji)
+
+椋~kun: むく
+on: リョウ
+meaning: type of deciduous tree, grey starling
+
+冶~kun: い.る
+on: ヤ
+meaning: melting, smelting
+
+耶~kun: か
+on: ヤ, ジャ
+meaning: question mark
+
+宥~kun: なだ.める, ゆる.す
+on: ユウ
+meaning: soothe, calm, pacify
+
+蓉~kun: なだ.める, ゆる.す
+on: ヨウ
+meaning: lotus
+
+璃~kun: なだ.める, ゆる.す
+on: リ
+meaning: glassy, lapis lazuli
+
+瞭~kun: あきらか
+on: リョウ
+meaning: clear
+
+諒~kun: あきら.か, まことに
+on: リョウ
+meaning: fact, reality, understand, appreciate
+
+琳~kun: あきら.か, まことに
+on: リン
+meaning: jewel, tinkling of jewelry
+
+麟~kun: あきら.か, まことに
+on: リン
+meaning: Chinese unicorn, genius, giraffe, bright, shining
+
+伶~kun: わざおぎ
+on: レイ, リョウ
+meaning: actor
+
+侑~kun: すす.める, たす.ける
+on: ユウ, ウ
+meaning: urge to eat
+
+勁~kun: つよ.い
+on: ケイ
+meaning: strong
+
+奎~kun: つよ.い
+on: ケイ, キ
+meaning: star, god of literature
+
+崚~kun: つよ.い
+on: リョウ
+meaning: towering in a row
+
+昴~kun: すばる
+on: コウ, ボウ
+meaning: the Pleiades
+
+晏~kun: おそ.い
+on: アン
+meaning: late, quiet, sets (sun)
+
+晨~kun: あした, とき, あさ
+on: シン
+meaning: morning, early
+
+晟~kun: あきらか
+on: セイ, ジョウ
+meaning: clear
+
+栞~kun: しおり
+on: カン
+meaning: bookmark, guidebook
+
+椰~kun: やし
+on: ヤ
+meaning: coconut tree
+
+洵~kun: の.ぶ, まこと.に
+on: ジュン, シュン
+meaning: alike, truth
+
+滉~kun: ひろ.い
+on: コウ
+meaning: deep and broad
+
+澪~kun: みお
+on: レイ
+meaning: water route, shipping channel
+
+燎~kun: かがりび
+on: リョウ
+meaning: burn, bonfire
+
+燿~kun: かがや.く, ひかり
+on: ヨウ
+meaning: shine
+
+瑶~kun: たま
+on: ヨウ
+meaning: beautiful as a jewel
+
+眸~kun: ひとみ
+on: ボウ, ム
+meaning: pupil of the eye
+
+笙~kun: ふえ
+on: ショウ, ソウ
+meaning: a reed instrument
+
+綸~kun: いと
+on: リン, カン
+meaning: thread, silk cloth
+
+茉~kun: いと
+on: マツ, バツ, マ
+meaning: jasmine
+
+莉~kun: いと
+on: リ, ライ, レイ
+meaning: jasmine
+
+菫~kun: すみれ
+on: キン
+meaning: the violet
+
+詢~kun: はか.る, まこと
+on: ジュン, シュン
+meaning: consult with
+
+諄~kun: ひちくど.い, くど.い, くどくど, ねんご.ろ
+on: シュン
+meaning: tedious
+
+迪~kun: みち, みち.びく, すす.む, いた.る
+on: テキ
+meaning: edify, way, path
+
+頌~kun: かたち, たた.える, ほめ.る
+on: ショウ, ジュ, ヨウ
+meaning: eulogy
+
+颯~kun: さっ.と
+on: サツ, ソウ
+meaning: suddenly, smoothly
+
+凜~kun: きびし.い
+on: リン
+meaning: cold, strict, severe
+
+熙~kun: たのし.む, ひか.る, ひろ.い, よろこ.ぶ, かわ.く, あきらか, ひろ.める, ひろ.まる
+on: キ
+meaning: bright, sunny, prosperous, merry
+
+蒲~kun: がま, かば, かま
+on: ホ, ボ, フ, ブ
+meaning: bullrush, flag, cattail
+
+湘~kun: がま, かば, かま
+on: ショウ
+meaning: name of Chinese river, the Sagami river
+
+灘~kun: なだ, せ
+on: タン, ダン
+meaning: open sea
+
+堰~kun: せき, せ.く
+on: エン
+meaning: dam, prevent, stop up
+
+獅~kun: しし
+on: シ
+meaning: lion
+
+鷲~kun: しし
+on: シュウ, ジュ
+meaning: eagle
+
+芥~kun: からし, ごみ, あくた
+on: カイ, ケ
+meaning: mustard, rape, dust, trash, rubbish
+
+其~kun: そ.れ, そ.の
+on: キ, ギ, ゴ
+meaning: that
+
+誰~kun: だれ, たれ, た
+on: スイ
+meaning: who, someone, somebody
+
+榎~kun: えのき
+on: カ
+meaning: lotus tree, nettle tree, hackberry
+
+俺~kun: おれ, われ
+on: エン
+meaning: I, myself
+
+劉~kun: ころ.す
+on: リュウ, ル
+meaning: weapon of war, logging axe, kill en masse, peeling (paint off a wall, etc), sparse, faded
+
+幡~kun: はた
+on: マン, ハン, バン, ホン
+meaning: flag
+
+諏~kun: そう, はか.る
+on: シュ, ス
+meaning: consult
+
+袖~kun: そで
+on: シュウ
+meaning: sleeve, wing (building), extension, give cold shoulder
+
+妖~kun: あや.しい, なま.めく, わざわ.い
+on: ヨウ
+meaning: attractive, bewitching, calamity
+
+琵~kun: あや.しい, なま.めく, わざわ.い
+on: ビ, ヒ
+meaning: glissando on strings, lute
+
+琶~kun: あや.しい, なま.めく, わざわ.い
+on: ハ, ベ, ワ
+meaning: lute
+
+蘇~kun: よみがえ.る
+on: ソ, ス
+meaning: be resuscitated, revived
+
+闇~kun: やみ, くら.い
+on: アン, オン
+meaning: get dark, gloom, disorder
+
+捉~kun: とら.える
+on: ソク, サク
+meaning: catch, capture
+
+樽~kun: たる
+on: ソン
+meaning: barrel, cask, keg
+
+薩~kun: たる
+on: サツ, サチ
+meaning: Buddha
+
+淀~kun: よど.む
+on: テン, デン
+meaning: pool, eddy
+
+哨~kun: みはり
+on: ショウ
+meaning: scout, sentinel
+
+汎~kun: ただよ.う, ひろ.い
+on: ハン, ブ, フウ, ホウ, ホン
+meaning: pan-
+
+頃~kun: ころ, ごろ, しばら.く
+on: ケイ, キョウ
+meaning: time, about, toward
+
+梁~kun: はり, うつばり, うちばり, やな, はし
+on: リョウ
+meaning: weir, fish trap, beam, girder
+
+謎~kun: なぞ
+on: メイ, ベイ
+meaning: riddle, puzzle, enigma, hint, tip
+
+箕~kun: み
+on: キ
+meaning: winnowing
+
+爪~kun: つめ, つま-
+on: ソウ
+meaning: claw, nail, talon
+
+芭~kun: つめ, つま-
+on: バ, ハ
+meaning: banana
+
+逗~kun: とど.まる
+on: トウ, ズ
+meaning: stop
+
+鍵~kun: かぎ
+on: ケン
+meaning: key
+
+楢~kun: なら
+on: シュウ, ユウ
+meaning: oak
+
+兜~kun: かぶと
+on: トウ, ト
+meaning: helmet, head piece
+
+烏~kun: からす, いずくんぞ, なんぞ
+on: ウ, オ
+meaning: crow, raven
+
+奄~kun: おお.う, たちまち
+on: エン
+meaning: cover, suffocate, obstruct
+
+臼~kun: うす, うすづ.く
+on: キュウ, グ
+meaning: mortar
+
+桧~kun: ひのき, ひ
+on: カイ
+meaning: Japanese cypress
+
+宋~kun: ひのき, ひ
+on: ソウ
+meaning: dwell, Sung dynasty
+
+牙~kun: きば, は
+on: ガ, ゲ
+meaning: tusk, fang, tusk radical (no. 92)
+
+篇~kun: きば, は
+on: ヘン
+meaning: volume, chapter, book, editing, compilation
+
+此~kun: こ.れ, こ.の, ここ
+on: シ
+meaning: this, current, next, coming, last, past
+
+枕~kun: まくら
+on: チン, シン
+meaning: pillow
+
+菩~kun: まくら
+on: ボ
+meaning: kind of grass, sacred tree
+
+檜~kun: ひのき, ひ
+on: カイ
+meaning: Japanese cypress
+
+牟~kun: ひのき, ひ
+on: ボウ, ム
+meaning: pupil (eye), moo (cow sound)
+
+榊~kun: さかき
+on: ボウ, ム
+meaning: sacred Shinto tree, (kokuji)
+
+錫~kun: すず, たま.う
+on: セキ, シャク
+meaning: copper, tin
+
+廟~kun: たまや, みたまや, やしろ
+on: ビョウ, ミョウ
+meaning: mausoleum, shrine, palace
+
+逢~kun: あ.う, むか.える
+on: ホウ
+meaning: meeting, tryst, date, rendezvous
+
+凧~kun: いかのぼり, たこ
+on: ホウ
+meaning: kite, (kokuji)
+
+鵜~kun: う
+on: テイ, ダイ
+meaning: cormorant
+
+庵~kun: いおり, いお
+on: アン
+meaning: hermitage, retreat
+
+膳~kun: かしわ, すす.める, そな.える
+on: ゼン, セン
+meaning: small low table, tray
+
+狼~kun: おおかみ
+on: ロウ
+meaning: wolf
+
+尖~kun: とが.る, さき, するど.い
+on: セン
+meaning: be pointed, sharp, taper, displeased, angry, edgy
+
+卿~kun: きみ
+on: ケイ, キョウ
+meaning: you, lord, secretary, state minister
+
+串~kun: くし, つらぬ.く
+on: カン, ケン, セン
+meaning: shish kebab, spit, skewer
+
+已~kun: や.む, すで.に, のみ, はなはだ
+on: イ
+meaning: stop, halt, previously, already, long ago
+
+粟~kun: あわ, もみ
+on: ゾク, ショク, ソク
+meaning: millet
+
+燕~kun: つばめ, つばくら, つばくろ
+on: エン
+meaning: swallow (bird)
+
+綴~kun: と.じる, つづ.る, つづり, すみ.やか
+on: テイ, テツ, テチ, ゲツ
+meaning: compose, spell, write, bind (books)
+
+埴~kun: はに, へな
+on: ショク
+meaning: clay
+
+餅~kun: もち, もちい
+on: ヘイ, ヒョウ
+meaning: mochi rice cake
+
+魯~kun: おろか
+on: ロ
+meaning: foolish, Russia
+
+牡~kun: おす, お-, おん-
+on: ボ, ボウ
+meaning: male
+
+箸~kun: はし
+on: チョ, チャク
+meaning: chopsticks
+
+迦~kun: はし
+on: カ, ケ
+meaning: (used phonetically)
+
+斑~kun: ふ, まだら
+on: ハン
+meaning: spot, blemish, speck, patches
+
+蔭~kun: かげ
+on: イン, オン
+meaning: shade, shadow, backing assistance
+
+祇~kun: くにつかみ, ただ, まさに
+on: ギ, キ, シ
+meaning: national or local god, peaceful, great
+
+鷺~kun: さぎ
+on: ロ
+meaning: heron
+
+袴~kun: はかま, ずぼん
+on: コ, ク
+meaning: men's formal divided skirt
+
+讃~kun: ほ.める, たた.える
+on: サン
+meaning: praise, title on a picture
+
+湛~kun: しず.む, たた.える
+on: タン, チン, ジン, セン
+meaning: fill, wear (a smile), clear, pure, dense, deep
+
+堆~kun: うずたか.い
+on: タイ, ツイ
+meaning: piled high
+
+挺~kun: ぬ.く
+on: チョウ, テイ
+meaning: counter for guns, inksticks, palanquins, rickshaws, bravely volunteer
+
+雁~kun: かり, かりがね
+on: ガン
+meaning: wild goose
+
+佃~kun: つくだ
+on: テン, デン
+meaning: cultivated rice field
+
+芯~kun: つくだ
+on: シン
+meaning: wick
+
+蜜~kun: つくだ
+on: ミツ, ビツ
+meaning: honey, nectar, molasses
+
+播~kun: ま.く
+on: ハ, バン, ハン
+meaning: plant, sow
+
+帖~kun: かきもの
+on: チョウ, ジョウ
+meaning: quire (of paper), bundle of seaweed, counter for screens, notebook
+
+桶~kun: おけ
+on: ヨウ, トウ
+meaning: tub, bucket
+
+匂~kun: にお.う, にお.い, にお.わせる
+on: ヨウ, トウ
+meaning: fragrant, stink, glow, insinuate, (kokuji)
+
+鞍~kun: くら
+on: アン
+meaning: saddle
+
+玩~kun: もちあそ.ぶ, もてあそ.ぶ
+on: ガン
+meaning: play, take pleasure in, trifle with, make sport of
+
+萱~kun: かや, かんぞう
+on: ケン
+meaning: miscanthus reed
+
+梯~kun: はしご
+on: テイ, タイ
+meaning: ladder, stairs, insatiable drinking
+
+雫~kun: しずく
+on: ダ
+meaning: drop, trickle, dripping
+
+絆~kun: きずな, ほだ.す, つな.ぐ
+on: ハン
+meaning: bonds, fetters
+
+湊~kun: みなと, あつ.まる
+on: ソウ
+meaning: port, harbor
+
+蜂~kun: はち
+on: ホウ
+meaning: bee, wasp, hornet
+
+舵~kun: かじ
+on: ダ, タ
+meaning: rudder, helm, wheel
+
+珂~kun: かじ
+on: カ
+meaning: jewel
+
+峨~kun: けわ.しい
+on: ガ
+meaning: high mountain
+
+椅~kun: けわ.しい
+on: イ
+meaning: chair
+
+宕~kun: すぎる
+on: トウ
+meaning: cave
+
+喧~kun: やかま.しい, かまびす.しい
+on: ケン
+meaning: noisy, boisterous
+
+樟~kun: くす
+on: ショウ
+meaning: camphor
+
+櫛~kun: くし, くしけず.る
+on: シツ
+meaning: comb
+
+挨~kun: ひら.く
+on: アイ
+meaning: push open
+
+濡~kun: ぬれ.る, ぬら.す, ぬ.れる, ぬ.らす, うるお.い, うるお.う, うるお.す
+on: ジュ, ニュ
+meaning: get wet, damp, make love
+
+槍~kun: やり
+on: ソウ, ショウ
+meaning: spear, lance, javelin
+
+壕~kun: ほり
+on: コウ, ゴウ
+meaning: trench, dugout, air raid shelter
+
+粥~kun: かゆ, かい, ひさ.ぐ
+on: イク, シュク, ジュク
+meaning: rice gruel
+
+捧~kun: ささ.げる
+on: ホウ
+meaning: lift up, give, offer, consecrate, sacrifice, dedicate
+
+樫~kun: かし
+on: ホウ
+meaning: evergreen oak, (kokuji)
+
+噂~kun: うわさ
+on: ソン
+meaning: rumor, gossip, hearsay
+
+洛~kun: うわさ
+on: ラク
+meaning: Kyoto, the capital
+
+醍~kun: うわさ
+on: ダイ, タイ, テイ
+meaning: whey, good Buddhist teaching
+
+砦~kun: とりで
+on: サイ
+meaning: fort, stronghold, entrenchments
+
+蕨~kun: わらび
+on: ケツ
+meaning: bracken, fernbrake
+
+隈~kun: くま, すみ
+on: ワイ, エ
+meaning: corner, nook, recess
+
+凄~kun: さむ.い, すご.い, すさ.まじい
+on: セイ, サイ
+meaning: uncanny, weird, threatening, horrible
+
+夷~kun: えびす, えみし, ころ.す, たい.らげる
+on: イ
+meaning: barbarian, savage, Ainu
+
+杭~kun: くい
+on: コウ
+meaning: stake, post, picket
+
+寓~kun: ぐう.する, かこつ.ける, よ.せる, よ.る, かりずまい
+on: グウ, グ, ドウ
+meaning: temporary abode, keep, imply, suggest
+
+戴~kun: いただ.く
+on: タイ
+meaning: be crowned with, live under (a ruler), receive
+
+裾~kun: すそ
+on: キョ, コ
+meaning: cuff, hem, foot of mountain
+
+坐~kun: すわ.る, おわす, そぞろに, まします
+on: ザ, サ
+meaning: sit
+
+塙~kun: はなわ, かた.い
+on: カク, コウ
+meaning: projecting tableland or mountain
+
+葦~kun: しお.れる, しな.びる, しぼ.む, な.える
+on: イ
+meaning: reed, bullrush
+
+饗~kun: う.ける, もてな.す
+on: キョウ
+meaning: banquet
+
+冥~kun: くら.い
+on: メイ, ミョウ
+meaning: dark
+
+漕~kun: こ.ぐ, はこ.ぶ
+on: ソウ
+meaning: rowing, scull, paddle
+
+杵~kun: きね
+on: ショ, ソ
+meaning: wooden pestle
+
+蒙~kun: こうむ.る, おお.う, くら.い
+on: モウ, ボウ
+meaning: ignorance, darkness, get, receive, be subjected to, sustain, Mongolia
+
+蕃~kun: こうむ.る, おお.う, くら.い
+on: バン, ハン
+meaning: grow luxuriously
+
+碓~kun: たし.か, かく.たる
+on: カク, タイ
+meaning: pestle
+
+麓~kun: ふもと
+on: ロク
+meaning: foot of a mountain
+
+瀕~kun: ほとり
+on: ヒン
+meaning: shore, brink, verge
+
+竪~kun: たて, た.てる, こども
+on: ジュ
+meaning: length, height, warp
+
+稽~kun: かんが.える, とど.める
+on: ケイ
+meaning: think, consider, quarrel
+
+蹴~kun: け.る
+on: シュク, シュウ
+meaning: kick
+
+或~kun: あ.る, あるい, あるいは
+on: ワク, コク, イキ
+meaning: some, one, or, possibly, a certain
+
+杖~kun: つえ
+on: ジョウ
+meaning: staff, cane
+
+蓋~kun: ふた, けだ.し, おお.う, かさ, かこう
+on: ガイ, カイ, コウ
+meaning: cover, lid, flap
+
+畏~kun: おそ.れる, かしこ.まる, かしこ, かしこ.し
+on: イ
+meaning: fear, majestic, graciously, be apprehensive
+
+撫~kun: な.でる
+on: ブ, フ
+meaning: stroke, pat, smooth down
+
+喋~kun: しゃべ.る, ついば.む
+on: チョウ, トウ
+meaning: talk, chat, chatter
+
+溢~kun: こぼ.れる, あふ.れる, み.ちる
+on: イツ
+meaning: overflow, inundate, spill
+
+揃~kun: そろ.える, そろ.う, そろ.い, き.る
+on: セン
+meaning: be complete, uniform, all present
+
+巷~kun: ちまた
+on: コウ
+meaning: fork in road, scene, arena, theater
+
+竿~kun: さお
+on: カン
+meaning: pole, rod, scale beam, violin neck
+
+蟹~kun: かに
+on: カイ
+meaning: crab
+
+拭~kun: ぬぐ.う, ふ.く
+on: ショク, シキ
+meaning: wipe, mop, swab
+
+厨~kun: くりや
+on: シュウ, ズ, チュ, チュウ
+meaning: kitchen
+
+犀~kun: くりや
+on: サイ, セイ
+meaning: rhinocerous
+
+叢~kun: くさむら, むら.がる, むら
+on: ソウ, ス
+meaning: plexus, clump of bushes, thicket
+
+轟~kun: とどろ.かす, とどろ.く
+on: コウ, ゴウ
+meaning: roar, thunder, boom resound
+
+貰~kun: もら.う
+on: セイ, シャ
+meaning: get, have, obtain
+
+儲~kun: もう.ける, もう.かる, もうけ, たくわ.える
+on: チョ
+meaning: be profitable, yield profit
+
+貼~kun: は.る, つ.く
+on: テン, チョウ
+meaning: stick, paste, apply
+
+溜~kun: た.まる, たま.る, た.める, したた.る, たまり, ため
+on: リュウ
+meaning: collect, gather, be in arrears
+
+諦~kun: あき.らめる, あきら.める, つまびらか, まこと
+on: テイ, タイ
+meaning: abandon, give up
+
+煎~kun: せん.じる, い.る, に.る
+on: セン
+meaning: broil, parch, roast, boil
+
+瓜~kun: うり
+on: カ, ケ
+meaning: melon
+
+槌~kun: つち
+on: ツイ
+meaning: hammer, mallet
+
+蹄~kun: ひづめ
+on: テイ
+meaning: hoof
+
+楕~kun: ひづめ
+on: ダ, タ
+meaning: ellipse
+
+詫~kun: わび, わび.しい, かこつ, わ.びる, わび.る
+on: タ
+meaning: apologize
+
+鱒~kun: ます
+on: ソン, セン, ザン
+meaning: salmon trout
+
+惚~kun: ほけ.る, ぼ.ける, ほ.れる
+on: コツ
+meaning: fall in love with, admire, grow senile
+
+藁~kun: わら
+on: コウ
+meaning: straw
+
+縞~kun: しま, しろぎぬ
+on: コウ
+meaning: stripe
+
+鱗~kun: うろこ, こけ, こけら
+on: リン
+meaning: scales (fish)
+
+釘~kun: くぎ
+on: テイ, チョウ
+meaning: nail, tack, peg
+
+弛~kun: たる.む, たる.める, たゆ.む, ゆる.む, ゆる.み
+on: チ, シ
+meaning: slacken, relax
+
+壬~kun: みずのえ
+on: ニン, ジン, イ
+meaning: 9th calendar sign
+
+娃~kun: うつく.しい
+on: ア, アイ, ワ
+meaning: beautiful
+
+斡~kun: めぐ.る, めぐ.らす
+on: アツ, カン, ワツ
+meaning: go around, rule, administer
+
+宛~kun: あ.てる, -あて, -づつ, あたか.も
+on: エン
+meaning: address, just like, fortunately
+
+按~kun: おさ.える, しら.べる
+on: アン
+meaning: hold, consider, investigate
+
+謂~kun: い.う, いい, おも.う, いわゆる
+on: イ
+meaning: reason, origin, history, oral tradition
+
+鰯~kun: いわし
+on: イ
+meaning: sardine, (kokuji)
+
+迂~kun: いわし
+on: ウ
+meaning: roundabout way
+
+窺~kun: うかが.う, のぞく
+on: キ
+meaning: lie in wait, spy on, reconnoiter
+
+姥~kun: うば
+on: ボ, モ
+meaning: old woman
+
+厩~kun: うまや
+on: キュウ
+meaning: barn, stable
+
+閏~kun: うるう
+on: ジュン
+meaning: intercalation, illegitimate throne
+
+云~kun: い.う, ここに
+on: ウン
+meaning: say
+
+曳~kun: ひ.く
+on: エイ
+meaning: pull, tug, jerk, admit, install, quote, refer to
+
+甥~kun: おい, むこ
+on: セイ, ソウ, ショウ
+meaning: nephew
+
+襖~kun: ふすま, あお
+on: オウ
+meaning: opaque sliding door
+
+臆~kun: むね, おくする
+on: オク, ヨク
+meaning: timidity, heart, mind, fear, cowardly
+
+禾~kun: いね
+on: カ
+meaning: 2-branch tree radical (no. 115)
+
+嘩~kun: かまびす.しい
+on: カ, ケ
+meaning: noisy
+
+俄~kun: にわか
+on: ガ
+meaning: sudden, abrupt, improvised
+
+臥~kun: ふせ.る, ふ.せる, ふ.す
+on: ガ
+meaning: bend down, bow, lie prostrate
+
+駕~kun: かご, が.する, しのぐ, のる
+on: カ, ガ
+meaning: vehicle, palanquin, litter, hitch up an animal
+
+廻~kun: まわ.る, まわ.す, もとお.る, めぐ.る, めぐ.らす
+on: カイ, エ
+meaning: round, game, revolve, go around, circumference
+
+恢~kun: ひろ.い
+on: カイ, ケ
+meaning: wide, large, enlarge
+
+晦~kun: つごもり, くら.い, みそか, くら.む
+on: カイ
+meaning: dark, disappear
+
+崖~kun: がけ, きし, はて
+on: ガイ, ゲ, ギ
+meaning: cliff, bluff, precipice
+
+鎧~kun: よろ.う, よろい
+on: カイ, ガイ
+meaning: put on armor, arm oneself
+
+浬~kun: かいり, のっと
+on: リ
+meaning: knot, nautical mile
+
+恰~kun: あたか.も
+on: コウ, カッ, チョウ, キョウ
+meaning: just as, as though, fortunately
+
+椛~kun: かば, もみじ
+on: コウ, カッ, チョウ, キョウ
+meaning: birch, maple
+
+鞄~kun: かばん
+on: ハク, ホウ, ビョウ
+meaning: suitcase, bag, briefcase
+
+柑~kun: かばん
+on: コン, カン
+meaning: citrus, orange
+
+徽~kun: しるし
+on: キ
+meaning: good, beautiful, badge
+
+掬~kun: きく.す, むす.ぶ, すく.う, たなごころ
+on: キク, コク
+meaning: scoop up water with the hand
+
+桔~kun: きく.す, むす.ぶ, すく.う, たなごころ
+on: キツ, ケツ
+meaning: used in plant names
+
+砧~kun: きぬた
+on: チン
+meaning: fulling block
+
+汲~kun: く.む
+on: キュウ
+meaning: draw (water), ladle, scoop, pump
+
+灸~kun: やいと
+on: キュウ, ク
+meaning: moxa cautery, chastisement
+
+笈~kun: やいと
+on: キュウ
+meaning: backpack bookcase
+
+鋸~kun: のこ, のこぎり
+on: キョ, コ
+meaning: saw (cuts wood)
+
+蕎~kun: そば
+on: キョウ
+meaning: buckwheat
+
+僅~kun: わずか
+on: キン, ゴン
+meaning: a wee bit
+
+巾~kun: おお.い, ちきり, きれ
+on: キン, フク
+meaning: towel, hanging scroll, width, cloth radical (no. 50)
+
+禽~kun: とり, とりこ
+on: キン
+meaning: bird, captive, capture
+
+喰~kun: く.う, く.らう
+on: キン
+meaning: eat, drink, receive (a blow), (kokuji)
+
+屑~kun: くず, いさぎよ.い
+on: セツ
+meaning: rubbish, junk, trash, waste, scraps
+
+窟~kun: いわや, いはや, あな
+on: クツ, コツ
+meaning: cavern
+
+沓~kun: くつ
+on: トウ
+meaning: shoes, boots
+
+鍬~kun: くわ, すき
+on: ショウ, シュウ
+meaning: hoe with long blade at acute angle
+
+祁~kun: くわ, すき
+on: キ, ケ
+meaning: intense, large
+
+詣~kun: けい.する, まい.る, いた.る, もう.でる
+on: ケイ, ゲイ
+meaning: visit a temple
+
+戟~kun: ほこ
+on: ゲキ
+meaning: halbert, arms
+
+隙~kun: すき, す.く, す.かす, ひま
+on: ゲキ, キャク, ケキ
+meaning: crevice, fissure, discord, opportunity, leisure, also N5013
+
+桁~kun: けた
+on: コウ
+meaning: beam, girder, spar, unit or column (accounting)
+
+訣~kun: わかれ, わかれ.る
+on: ケツ
+meaning: separation, part, secret
+
+倦~kun: あき.る, あぐ.む, あぐ.ねる, う.む, つか.れる
+on: ケン
+meaning: lose interest in, tire of
+
+捲~kun: ま.く, ま.くる, まく.る, めく.る, まく.れる
+on: ケン
+meaning: roll, wind, coil, turn pages, roll up sleeves, strip off, be turned, be rolled up
+
+牽~kun: ひ.く
+on: ケン
+meaning: pull, tug, jerk, admit, install, quote, refer to
+
+硯~kun: すずり
+on: ケン, ゲン
+meaning: inkstone
+
+舷~kun: ふなべい, ふなばた
+on: ゲン
+meaning: gunwale
+
+諺~kun: ことわざ
+on: ゲン
+meaning: proverb
+
+乎~kun: か, ああ, かな, や, よ, を
+on: コ, オ
+meaning: question mark, ?
+
+糊~kun: のり
+on: コ, ゴ, コツ
+meaning: paste, glue, sizing
+
+跨~kun: また.がる, またが.る, また.ぐ
+on: コ, カ
+meaning: be, sit or stand astride, extend over, straddle
+
+檎~kun: また.がる, またが.る, また.ぐ
+on: キン, ゴン, ゴ
+meaning: pear, apple
+
+醐~kun: また.がる, またが.る, また.ぐ
+on: ゴ, コ
+meaning: boiled butter
+
+勾~kun: かぎ, ま.がる
+on: コウ, ク
+meaning: be bent, slope, capture
+
+庚~kun: かのえ
+on: コウ
+meaning: 7th, 7th calendar sign
+
+梗~kun: ふさぐ, やまにれ, おおむね
+on: コウ, キョウ
+meaning: for the most part, close up
+
+腔~kun: ふさぐ, やまにれ, おおむね
+on: コウ
+meaning: body cavity
+
+膏~kun: あぶら
+on: コウ
+meaning: fat, grease, lard, paste, ointment, plaster
+
+閤~kun: くぐりど
+on: コウ
+meaning: small side gate
+
+劫~kun: おびや.かす
+on: コウ, ゴウ, キョウ
+meaning: threat, long ages
+
+忽~kun: たちま.ち, ゆるが.せ
+on: コツ
+meaning: in a moment, instantly, all of a sudden, neglect, disregard
+
+昏~kun: くら.い, くれ
+on: コン
+meaning: dark, evening, dusk
+
+些~kun: ち.と, ち.っと, いささか
+on: サ, シャ
+meaning: a little bit, sometimes
+
+叉~kun: また
+on: サ, シャ, サイ
+meaning: fork in road, crotch
+
+塞~kun: ふさ.ぐ, とりで, み.ちる
+on: ソク, サイ
+meaning: close, shut, cover, block, obstruct
+
+肴~kun: さかな
+on: コウ
+meaning: accompaniment for drinks
+
+柵~kun: しがら.む, しがらみ, とりで, やらい
+on: サク, サン
+meaning: stockade, fence, wier, entwine around
+
+窄~kun: すぼ.める, つぼ.める, せま.い
+on: サク
+meaning: narrow, fold, furl, shrug, pucker, shut, close
+
+拶~kun: せま.る
+on: サツ
+meaning: be imminent
+
+錆~kun: さび, くわ.しい
+on: ショウ, セイ
+meaning: tarnish
+
+晒~kun: さら.す, さらし
+on: サイ, シ
+meaning: bleach, refine, expose, air
+
+撒~kun: ま.く
+on: サン, サツ
+meaning: scatter, sprinkle, give them the slip
+
+珊~kun: センチ, さんち
+on: サン
+meaning: stagger, loneliness, centimeter
+
+纂~kun: あつ.める
+on: サン
+meaning: editing, compiling
+
+仔~kun: こ, た.える
+on: シ
+meaning: offspring
+
+斯~kun: か, こう, か.く, この, これ, ここに
+on: シ
+meaning: this, thus, such, verbal pause
+
+而~kun: しこ.うして, しか.して, しか.も, しか.れども, すなわち, なんじ, しかるに
+on: ジ, ニ
+meaning: rake
+
+竺~kun: しこ.うして, しか.して, しか.も, しか.れども, すなわち, なんじ, しかるに
+on: ジク, チク, トク
+meaning: bamboo
+
+悉~kun: つ.きる, ことごと, ことごと.く, つ.くす, つぶさ.に
+on: シツ, シチ
+meaning: all, entirely, altogether, completely, use up, run out of, exhaust, befriend, serve
+
+灼~kun: あらた, やく
+on: シャク
+meaning: miraculous
+
+惹~kun: ひ.く
+on: ジャク, ジャ
+meaning: attract, captivate
+
+蒐~kun: あかね, あつ.まる, あつ.める
+on: シュウ
+meaning: gather
+
+輯~kun: あつ.める, やわ.らぐ
+on: シュウ
+meaning: gather, collect, compile
+
+楯~kun: たて
+on: ジュン
+meaning: shield, buckler, pretext
+
+嘗~kun: かつ.て, こころ.みる, な.める
+on: ショウ, ジョウ
+meaning: once, before, formerly, ever, never, ex-, lick, lap up, burn up, taste, undergo, underrate, despise
+
+裳~kun: も, もすそ
+on: ショウ
+meaning: skirt
+
+鞘~kun: さや
+on: ショウ, ソウ
+meaning: sheath, case, margin, difference, shells (of beans)
+
+燭~kun: ともしび
+on: ソク, ショク
+meaning: light, candlepower
+
+訊~kun: き.く, と.う, たず.ねる
+on: ジン, シュン, シン
+meaning: request, question, investigate
+
+錐~kun: きり
+on: スイ
+meaning: auger, drill, awl, pyramid, cone
+
+頗~kun: すこぶ.る, かたよ.る
+on: ハ
+meaning: prejudiced, exceedingly
+
+摺~kun: す.る, ひだ
+on: ショウ, シュウ, ロウ
+meaning: rub, fold, print (on cloth)
+
+棲~kun: す.む
+on: セイ
+meaning: live, dwell
+
+栖~kun: す.む
+on: セイ
+meaning: nest, rookery, hive, cobweb, den
+
+醒~kun: さ.ます, さ.める
+on: セイ
+meaning: awake, be disillusioned, sober up
+
+戚~kun: いた.む, うれ.える, みうち
+on: ソク, セキ
+meaning: grieve
+
+蹟~kun: あと
+on: セキ, シャク
+meaning: remains, traces, footprint
+
+撰~kun: せん.する, えら.む, えら.ぶ
+on: サン, セン
+meaning: composing, editing, compiling, selecting
+
+穿~kun: うが.つ, は.く
+on: セン
+meaning: put on (to the feet), dig, pierce, drill
+
+羨~kun: うらや.む, あまり
+on: セン, エン
+meaning: envious, be jealous, covet
+
+詮~kun: せん.ずる, かい, あき.らか
+on: セン
+meaning: discussion, methods called for, selection, result
+
+閃~kun: ひらめ.く, ひらめ.き, うかが.う
+on: セン
+meaning: flash, brandish
+
+噌~kun: かまびす.しい
+on: ソウ, ショウ, ソ
+meaning: boisterous
+
+曾~kun: かつ.て, か.って, すなわち
+on: ソウ, ソ, ゾウ
+meaning: once, before, formerly, ever, never, ex-
+
+楚~kun: いばら, しもと, すわえ
+on: ソ, ショ
+meaning: whip, cane
+
+疏~kun: あら.い, うと.い, うと.む, とお.る, とお.す, まばら
+on: ソ, ショ
+meaning: estrangement, sparseness, neglect
+
+遡~kun: さかのぼ.る
+on: ソ, サク
+meaning: go upstream, retrace the past
+
+遜~kun: したが.う, へりくだ.る, ゆず.る
+on: ソン
+meaning: humble, modest
+
+陀~kun: けわ.しい, ななめ
+on: タ, ダ, イ, チ, ジ
+meaning: steep
+
+苔~kun: こけ, こけら
+on: タイ
+meaning: moss, lichen
+
+托~kun: たく.する, たの.む
+on: タク
+meaning: requesting, entrusting with, pretend, hint
+
+茸~kun: きのこ, たけ, しげ.る
+on: ジョウ, ニュ
+meaning: mushroom
+
+辿~kun: たど.る, たどり
+on: テン
+meaning: follow (road), pursue
+
+坦~kun: たいら
+on: タン
+meaning: level, wide
+
+歎~kun: なげ.く, なげ.き
+on: タン
+meaning: grief, lamentation
+
+耽~kun: ふ.ける
+on: タン
+meaning: addicted, absorbed in
+
+馳~kun: は.せる
+on: チ, ジ
+meaning: run, gallop, sail, drive (a wagon), win (fame), despatch
+
+註~kun: は.せる
+on: チュウ
+meaning: notes, comment, annotate
+
+酎~kun: かも.す
+on: チュウ, チュ
+meaning: sake
+
+寵~kun: めぐ.み, めぐ.む
+on: チョウ
+meaning: affection, love, patronage
+
+牒~kun: ふだ
+on: チョウ, ジョウ
+meaning: label, genealogy, circular
+
+柘~kun: そ, つげ, やまぐわ
+on: シャ, ジャク
+meaning: wild mulberry
+
+鼎~kun: かなえ
+on: テイ
+meaning: three legged kettle
+
+擢~kun: ぬ.く, ぬき.んでる
+on: テキ, タク
+meaning: excel in, surpass, pull out, select
+
+填~kun: は.まる, は.める, うず.める, しず.める, ふさ.ぐ
+on: テン, チン
+meaning: fill in
+
+纏~kun: まつ.わる, まと.う, まと.める, まと.まる, まと.い
+on: テン, デン
+meaning: wear, wrap, tie, follow around, collect
+
+顛~kun: いただき, たお.れる
+on: テン
+meaning: overturn, summit, origin
+
+兎~kun: うさぎ
+on: ト, ツ
+meaning: rabbit, hare
+
+堵~kun: かき
+on: ト
+meaning: fence, railing, enclosure
+
+砥~kun: と, といし, と.ぐ, みが.く, たいら.にする
+on: シ, テイ, キイ, チ
+meaning: whetstone, grindstone
+
+套~kun: かさ.ねる
+on: トウ
+meaning: hackneyed
+
+董~kun: ただ.す
+on: トウ
+meaning: correct
+
+撞~kun: つ.く
+on: ドウ, トウ, シュ
+meaning: thrust, pierce, stab, prick
+
+萄~kun: つ.く
+on: ドウ, トウ
+meaning: grape vine, wild grape
+
+鳶~kun: とび, とんび
+on: エン
+meaning: black kite, fireman, hook
+
+沌~kun: くら.い
+on: トン
+meaning: primeval chaos
+
+遁~kun: のが.れる
+on: トン, シュン
+meaning: flee, escape, shirk, evade, set free
+
+頓~kun: にわか.に, とん.と, つまず.く, とみ.に, ぬかずく
+on: トン, トツ
+meaning: suddenly, immediately, in a hurry
+
+薙~kun: な.ぐ, なぎ, か.る
+on: テイ, チ
+meaning: mow down (the enemy)
+
+馴~kun: な.れる, な.らす, したが.う
+on: ジュン, シュン, クン
+meaning: get used to, experienced, tamed
+
+汝~kun: なんじ, なれ, い, うぬ, いまし, し, しゃ, な, なむち, まし, みまし
+on: ジョ
+meaning: you, thou
+
+賑~kun: にぎ.わい, にぎ.やか, にぎ.わす, にぎ.わう
+on: シン
+meaning: flourish, be bustling, prosperity
+
+廿~kun: にじゅう
+on: ジュウ, ニュウ
+meaning: twenty, 20
+
+禰~kun: にじゅう
+on: ネ, デイ, ナイ
+meaning: ancestral shrine
+
+祢~kun: にじゅう
+on: ネ, デイ, ナイ
+meaning: ancestral shrine
+
+捻~kun: ね.じる, ねじ.る, ひね.くる, ひね.る
+on: ネン, ジョウ
+meaning: twirl, twist, play with
+
+杷~kun: つか
+on: ハ
+meaning: kind of rake
+
+煤~kun: すす
+on: バイ, マイ
+meaning: soot, smoke dried
+
+這~kun: は.う, は.い, むか.える, この
+on: シャ, ゲン
+meaning: crawl, creep, grovel, trail (vines)
+
+秤~kun: はかり
+on: ショウ, ヒン, ビン
+meaning: balances, scales, steelyard
+
+箔~kun: すだれ
+on: ハク
+meaning: foil, gilt
+
+曝~kun: さら.す
+on: バク, ホク, ボク
+meaning: bleach, refine, expose, air
+
+莫~kun: くれ, なか.れ, なし
+on: バク, ボ, マク, モ, ナイ
+meaning: must not, do not, be not
+
+筈~kun: はず, やはず
+on: カツ
+meaning: notch of an arrow, ought, must, should be, expected
+
+挽~kun: ひ.く
+on: バン
+meaning: saw, turn (lathe), grind
+
+庇~kun: ひさし, おお.う, かば.う
+on: ヒ
+meaning: protect, shield, defend, eaves, canopy, penthouse, visor
+
+枇~kun: ひさし, おお.う, かば.う
+on: ビ, ヒ
+meaning: spoon
+
+毘~kun: たす.ける
+on: ヒ, ビ
+meaning: help, assist
+
+疋~kun: あし
+on: ヒキ, ショ, ソ, ヒツ
+meaning: head, counter for animals
+
+肘~kun: ひじ
+on: チュウ
+meaning: elbow, arm
+
+畢~kun: おわ.る, あみ, おわ.り, ことごとく
+on: ヒツ
+meaning: the end, finish
+
+紐~kun: ひも
+on: チュウ, ジュウ
+meaning: string, cord, braid, lace, tape, strap, ribbon
+
+瓢~kun: ひさご, ふくべ
+on: ヒョウ
+meaning: gourd
+
+豹~kun: ひさご, ふくべ
+on: ヒョウ, ホウ
+meaning: leopard, panther
+
+斧~kun: おの
+on: フ
+meaning: ax, hatchet
+
+葡~kun: おの
+on: ブ, ホ
+meaning: wild grape, Portugal
+
+蕪~kun: かぶ, かぶら, あれる
+on: ブ, ム
+meaning: turnip
+
+葺~kun: あし, ふ.く, ふき
+on: シュウ
+meaning: thatch, cover, shingle, tile
+
+吻~kun: くちわき, くちさき
+on: フン, ブン
+meaning: proboscis
+
+焚~kun: た.く, や.く, やきがり
+on: フン, ホン, ハン
+meaning: burn, kindle, build a fire, boil, cook
+
+蔽~kun: おお.う, おお.い
+on: ヘイ, ヘツ, フツ
+meaning: cover, shade, mantle, capsize, be ruined
+
+頁~kun: ぺえじ, おおがい, かしら
+on: ケツ
+meaning: page, leaf
+
+瞥~kun: ぺえじ, おおがい, かしら
+on: ベツ, ヘツ
+meaning: glance at
+
+娩~kun: ぺえじ, おおがい, かしら
+on: ベン
+meaning: bear (children)
+
+鞭~kun: むち, むちうつ
+on: ベン, ヘン
+meaning: whip, rod, counter for whippings
+
+圃~kun: はたけ, にわ
+on: ホ, フ
+meaning: garden, field
+
+戊~kun: つちのえ
+on: ボ, ボウ
+meaning: 5th calendar sign
+
+蓬~kun: よもぎ
+on: ホウ, ブ
+meaning: sagebrush, wormwood, mugwort
+
+鋒~kun: ほこ.さき
+on: ホウ
+meaning: dagger, sword's point, festival car, float
+
+貌~kun: かたち, かたどる
+on: ボウ, バク
+meaning: form, appearance, countenance
+
+卜~kun: うらな.う, うらない
+on: ボク
+meaning: divining, fortune-telling, divination or katakana to radical (no. 25)
+
+勃~kun: おこ.る, にわかに
+on: ボツ, ホツ
+meaning: suddenness, rise
+
+殆~kun: ほとほと, ほとん.ど, あやうい
+on: タイ, サイ
+meaning: almost, quite, really
+
+昧~kun: くら.い, むさぼ.る
+on: マイ, バイ
+meaning: dark, foolish
+
+哩~kun: まいる
+on: リ
+meaning: mile
+
+沫~kun: あわ, しぶき, つばき
+on: マツ, バツ
+meaning: splash, suds
+
+迄~kun: まで, およ.ぶ
+on: キツ
+meaning: until, up to, as far as, to the extent
+
+蔓~kun: はびこ.る, つる
+on: マン, バン
+meaning: vine, tendril, influence, connections, good offices, spread, sprawl, thrive, rampant, powerful
+
+蓑~kun: みの
+on: サ, サイ
+meaning: straw raincoat
+
+姪~kun: めい, おい
+on: テツ, チツ, ジチ, イツ, イチ
+meaning: niece
+
+勿~kun: なか.れ, なし
+on: モチ, ブツ, ボツ
+meaning: not, must not, do not, be not
+
+尤~kun: もっと.も, とが.める
+on: ユウ
+meaning: reasonable, just, natural, superb, outstanding, plausible
+
+籾~kun: もみ
+on: ユウ
+meaning: unhulled rice, (kokuji)
+
+輿~kun: かご, こし
+on: ヨ
+meaning: palanquin, bier
+
+傭~kun: やと.う, あた.い, ひと.しい
+on: ヨウ, チョウ
+meaning: employ, hire
+
+螺~kun: にし, にな
+on: ラ
+meaning: small, edible, helical fresh-water mollusk
+
+裡~kun: うち, うら
+on: リ
+meaning: reverse, inside, palm, sole, rear, lining, wrong side
+
+掠~kun: かす.める, かす.る, かす.れる
+on: リャク, リョウ
+meaning: pillage, rob, graze, skim, sweep over, cheat, hint
+
+侶~kun: とも
+on: リョ, ロ
+meaning: companion, follower
+
+淋~kun: さび.しい, さみ.しい
+on: リン
+meaning: lonely, deserted
+
+憐~kun: あわ.れむ, あわ.れ
+on: レン
+meaning: pity, have mercy, sympathise, compassion
+
+漣~kun: さざなみ
+on: レン, ラン
+meaning: ripples
+
+煉~kun: ね.る
+on: レン
+meaning: refine metals, kneading over fire
+
+簾~kun: すだれ, す
+on: レン
+meaning: bamboo screen, rattan blind
+
+櫓~kun: やぐら, おおだて
+on: ロ
+meaning: oar, tower
+
+肋~kun: あばら
+on: ロク
+meaning: rib
+
+亙~kun: わた.る, もと.める
+on: コウ, カン
+meaning: range, reach, extend, cover
+
+椀~kun: はち
+on: ワン
+meaning: wooden or lacquered bowl
+
+碗~kun: こばち
+on: ワン
+meaning: porcelain bowl, tea cup
+
+俐~kun: かしこ.い
+on: リ
+meaning: clever
+
+凛~kun: きびし.い
+on: リン
+meaning: cold
+
+凰~kun: おおとり
+on: コウ, オウ
+meaning: female phoenix bird
+
+刹~kun: おおとり
+on: セチ, セツ, サツ
+meaning: temple
+
+巖~kun: いわ, いわお, けわ.しい
+on: ガン
+meaning: rock, crag, boulder
+
+彌~kun: いや, や, あまねし, いよいよ, とおい, ひさし, ひさ.しい, わた.る
+on: ミ, ビ
+meaning: extensive, full, fill, complete
+
+徠~kun: きた.す, きた.る, く.る
+on: ライ
+meaning: induce, encourage to come
+
+惺~kun: さと.る
+on: セイ
+meaning: realize
+
+昊~kun: そら
+on: コウ
+meaning: sky, big
+
+晄~kun: あきらか
+on: コウ
+meaning: clear
+
+曖~kun: くら.い
+on: アイ
+meaning: dark, not clear
+
+梛~kun: なぎ
+on: ダ, ナ
+meaning: type of tall evergreen tree
+
+橙~kun: だいだい
+on: トウ
+meaning: bitter orange
+
+櫂~kun: かい, かじ
+on: トウ, タク
+meaning: oar, scull, paddle
+
+煌~kun: きらめ.く, きら.めく, かが.やく
+on: コウ
+meaning: glitter, gleam, twinkle
+
+珈~kun: かみかざり
+on: カ
+meaning: ornamental hairpin
+
+珀~kun: かみかざり
+on: ハク
+meaning: amber
+
+琥~kun: かみかざり
+on: コ
+meaning: jewelled utensil
+
+祿~kun: さいわ.い, ふち
+on: ロク
+meaning: fief, allowance, pension, grant, happiness
+
+稟~kun: こめぐら
+on: リン, ヒン
+meaning: salary in rice
+
+穰~kun: わら, ゆたか
+on: ジョウ
+meaning: abundance
+
+羚~kun: かもしか
+on: レイ, リョウ
+meaning: antelope
+
+苺~kun: いちご
+on: バイ, マイ
+meaning: strawberry
+
+萠~kun: も.える, きざ.す, めばえ, きざ.し
+on: ホウ
+meaning: show symptoms of, sprout, bud, malt
+
+蕾~kun: つぼみ
+on: ライ
+meaning: bud (plants, mushrooms not yet opened)
+
+逞~kun: たくま.しい
+on: テイ
+meaning: sturdy, brawny, bold
+
+釉~kun: うわぐすり
+on: ユウ
+meaning: glaze, enamel
+
+驍~kun: たけし, つよ.い
+on: ギョウ, キョウ
+meaning: strong, good horse, gallant, brave, ferocious
+
+麒~kun: たけし, つよ.い
+on: キ
+meaning: Chinese unicorn, genius, giraffe, bright, shining
+
+堯~kun: たか.い
+on: ギョウ
+meaning: high, far
+
+槇~kun: まき, こずえ
+on: テン, シン
+meaning: twig, Chinese black pine
+
+遙~kun: はる.か
+on: ヨウ
+meaning: far off, distant, long ago
+
+俠~kun: おとこだて
+on: キョウ, キャン
+meaning: chivalrous person, chivalry, knight-errant, tomboy
+
+摑~kun: つか.む, つか.まえる, つか.まる
+on: カク
+meaning: box one's ears, slap
+
+擊~kun: う.つ
+on: ゲキ
+meaning: strike, hit, beat, attack, fight
+
+焰~kun: ほのお
+on: エン
+meaning: flame, blaze, glowing, blazing
+
+瘦~kun: やせ.る
+on: ソウ, チュウ, シュウ, チュ
+meaning: thin, emaciated, lean, meager
+
+禱~kun: いの.る, まつ.る
+on: トウ
+meaning: pray, entreat, beg, plead, prayer
+
+繡~kun: ぬいとり
+on: シュウ
+meaning: embroider, embroidery, ornament
+
+繫~kun: つな.ぐ, かか.る, か.ける
+on: ケイ
+meaning: attach, connect, unite, fasten
+
+萊~kun: あかざ, あれわ, こうがい
+on: ライ, リ
+meaning: goosefoot, weed, fallow field
+
+蔣~kun: まこも, はげ.ます
+on: ショウ, ソウ
+meaning: surname, hydropyrum latifalium
+
+蠟~kun: みつろう, ろうそく
+on: ロウ
+meaning: wax, candle, waxy, glazed
+
+醬~kun: ひしお
+on: ショウ
+meaning: any jam-like or paste-like food
+
+頰~kun: ほお, ほほ
+on: キョウ
+meaning: cheeks, jaw
+
+鷗~kun: かもめ
+on: オウ
+meaning: seagull, tern
+
+卽~kun: つく, すなわち, もし
+on: ソク, ショク
+meaning: promptly
+
+吞~kun: のむ
+on: ドン, トン, テン
+meaning: swallow, absorb, annex, engulf
+
+增~kun: ます, ふえる, ふやす
+on: ゾウ, ソウ
+meaning: increase, add to, augment
+
+寬~kun: ひろい, ゆるやか, くつろぐ
+on: カン
+meaning: broad, wide, spacious, vast
+
+巢~kun: ひろい, ゆるやか, くつろぐ
+on: カン
+meaning: nest, living quarter in tree
+
+徵~kun: しるし, めす
+on: チョウ, チ
+meaning: summon, recruit, musical note
+
+德~kun: おしえ
+on: トク
+meaning: ethics, morality, virtue
+
+揭~kun: かかげる
+on: ケイ, ケツ
+meaning: raise, lift up, surname
+
+晚~kun: くれ, おそい
+on: バン
+meaning: night, evening, late
+
+曆~kun: こよみ
+on: レキ
+meaning: calendar, era
+
+橫~kun: よこ, よこたわる, よこたえる
+on: オウ, コウ
+meaning: across, horizontal, lateral
+
+步~kun: あるく, あゆむ, あゆみ
+on: ホ, ブ, フ
+meaning: step, pace, walk, stroll
+
+歷~kun: あるく, あゆむ, あゆみ
+on: ホ, ブ, フ
+meaning: take place, past, history
+
+每~kun: つね
+on: マイ, バイ
+meaning: every, each
+
+涉~kun: わたる, かかわる
+on: ショウ
+meaning: ford stream, wade across
+
+淚~kun: なみだ
+on: ルイ, レイ
+meaning: tears, weep, cry
+
+渴~kun: かわく, かわき
+on: カツ
+meaning: thirsty, parched, yearn, pine
+
+溫~kun: あたたか, あたためる
+on: オン, ウン
+meaning: lukewarm, warm, tepid, mild
+
+瀨~kun: せ
+on: ライ
+meaning: swift current, rapids
+
+狀~kun: せ
+on: ジョウ
+meaning: form, appearance, shape, official
+
+簞~kun: はこ
+on: タン
+meaning: small bamboo basket for holding
+
+綠~kun: みどり
+on: リョク, ロク
+meaning: green, chlorine
+
+緖~kun: お, いとぐち
+on: ショ, チョ
+meaning: end of thread, thread, clue
+
+緣~kun: ふち, へり, よる
+on: エン
+meaning: hem, margin, reason, cause, karma, fate
+
+薰~kun: かおる, かおりぐさ, かおり
+on: クン
+meaning: a medicinal herb, to cauterize
+
+虛~kun: むなしい
+on: キョ, コ
+meaning: false, worthless, empty, hollow
+
+蟬~kun: せみ
+on: セン, ゼン
+meaning: cicada, continuous
+
+賴~kun: たのむ, たよる, たより
+on: ライ
+meaning: rely, depend on, accuse falsely
+
+郞~kun: おとこ
+on: ロウ
+meaning: gentleman
+
+錄~kun: しるす
+on: ロク, リョ
+meaning: copy, write down, record
+
+鍊~kun: ねる
+on: レン
+meaning: smelt metals, forge, refine
+
+黃~kun: き
+on: コウ, オウ
+meaning: yellow, surname
+
+黑~kun: くろい, くろ
+on: コク
+meaning: black, dark, evil, sinister
+
+欄~kun: くろい, くろ
+on: コク
+meaning: railing, balustrade, animal pan
+
+廊~kun: くろい, くろ
+on: コク
+meaning: corridor, porch, veranda
+
+朗~kun: くろい, くろ
+on: コク
+meaning: clear, bright, distinct
+
+虜~kun: くろい, くろ
+on: コク
+meaning: capture, imprison, seize, prison
+
+類~kun: くろい, くろ
+on: コク
+meaning: class, group, kind, category
+
+渚~kun: なぎさ
+on: ショ
+meaning: 
+
+琢~kun: みがく
+on: タク
+meaning: 
+
+祐~kun: たすけ, たすける
+on: ユウ
+meaning: 
+
+禎~kun: さいわい
+on: テイ
+meaning: 
+
+蝦~kun: えび
+on: カ, ゲ
+meaning: shrimp, prawn, lobster
+
