@@ -1,0 +1,740 @@
+質~kun: たち, ただ.す, もと, わりふ
+on: シツ, シチ, チ
+meaning: substance, quality, matter, temperament
+
+政~kun: まつりごと, まん
+on: セイ, ショウ
+meaning: politics, government
+
+経~kun: へ.る, た.つ, たていと, はか.る, のり
+on: ケイ, キョウ
+meaning: sutra, longitude, pass thru, expire, warp
+
+現~kun: あらわ.れる, あらわ.す, うつつ, うつ.つ
+on: ゲン
+meaning: present, existing, actual
+
+性~kun: さが
+on: セイ, ショウ
+meaning: sex, gender, nature
+
+制~kun: さが
+on: セイ
+meaning: system, law, rule
+
+務~kun: つと.める
+on: ム
+meaning: task, duties
+
+総~kun: す.べて, すべ.て, ふさ
+on: ソウ
+meaning: general, whole, all, full, total
+
+領~kun: えり
+on: リョウ
+meaning: jurisdiction, dominion, territory, fief, reign
+
+設~kun: もう.ける
+on: セツ
+meaning: establishment, provision, prepare
+
+支~kun: ささ.える, つか.える, か.う
+on: シ
+meaning: branch, support, sustain, branch radical (no. 65)
+
+報~kun: むく.いる
+on: ホウ
+meaning: report, news, reward, retribution
+
+解~kun: と.く, と.かす, と.ける, ほど.く, ほど.ける, わか.る, さと.る
+on: カイ, ゲ
+meaning: unravel, notes, key, explanation, understanding, untie, undo, solve, answer, cancel, absolve, explain, minute
+
+資~kun: と.く, と.かす, と.ける, ほど.く, ほど.ける, わか.る, さと.る
+on: シ
+meaning: assets, resources, capital, funds, data, be conducive to, contribute to
+
+際~kun: きわ, -ぎわ
+on: サイ
+meaning: occasion, side, edge, verge, dangerous, adventurous, indecent, time, when
+
+査~kun: きわ, -ぎわ
+on: サ
+meaning: investigate
+
+判~kun: わか.る
+on: ハン, バン
+meaning: judgement, signature, stamp, seal
+
+在~kun: あ.る
+on: ザイ
+meaning: exist, outskirts, suburbs, located in
+
+件~kun: くだん
+on: ケン
+meaning: affair, case, matter, item
+
+団~kun: かたまり, まる.い
+on: ダン, トン
+meaning: group, association
+
+任~kun: まか.せる, まか.す
+on: ニン
+meaning: responsibility, duty, term, entrust to, appoint
+
+増~kun: ま.す, ま.し, ふ.える, ふ.やす
+on: ゾウ
+meaning: increase, add, augment, gain, promote
+
+情~kun: なさ.け
+on: ジョウ, セイ
+meaning: feelings, emotion, passion, sympathy, circumstances, facts
+
+示~kun: しめ.す
+on: ジ, シ
+meaning: show, indicate, point out, express, display
+
+確~kun: たし.か, たし.かめる
+on: カク, コウ
+meaning: assurance, firm, tight, hard, solid, confirm, clear, evident
+
+勢~kun: いきお.い, はずみ
+on: セイ, ゼイ
+meaning: forces, energy, military strength
+
+減~kun: へ.る, へ.らす
+on: ゲン
+meaning: dwindle, decrease, reduce, decline, curtail, get hungry
+
+容~kun: い.れる
+on: ヨウ
+meaning: contain, form, looks
+
+演~kun: い.れる
+on: エン
+meaning: performance, act, play, render, stage
+
+能~kun: よ.く
+on: ノウ
+meaning: ability, talent, skill, capacity
+
+再~kun: ふたた.び
+on: サイ, サ
+meaning: again, twice, second time
+
+格~kun: ふたた.び
+on: カク, コウ, キャク, ゴウ
+meaning: status, rank, capacity, character, case (law, grammar)
+
+過~kun: す.ぎる, -す.ぎる, -す.ぎ, す.ごす, あやま.つ, あやま.ち, よ.ぎる
+on: カ
+meaning: overdo, exceed, go beyond, error
+
+税~kun: す.ぎる, -す.ぎる, -す.ぎ, す.ごす, あやま.つ, あやま.ち, よ.ぎる
+on: ゼイ
+meaning: tax, duty
+
+常~kun: つね, とこ-
+on: ジョウ
+meaning: usual, ordinary, normal, regular
+
+状~kun: つね, とこ-
+on: ジョウ
+meaning: status quo, conditions, circumstances, form, appearance
+
+営~kun: いとな.む, いとな.み
+on: エイ
+meaning: occupation, camp, perform, build, conduct (business)
+
+職~kun: いとな.む, いとな.み
+on: ショク, ソク
+meaning: post, employment, work
+
+可~kun: -べ.き, -べ.し
+on: カ, コク
+meaning: can, passable, mustn't, should not, do not
+
+構~kun: かま.える, かま.う
+on: コウ
+meaning: posture, build, pretend
+
+比~kun: くら.べる
+on: ヒ
+meaning: compare, race, ratio, Philipines
+
+防~kun: ふせ.ぐ
+on: ボウ
+meaning: ward off, defend, protect, resist
+
+断~kun: た.つ, ことわ.る, さだ.める
+on: ダン
+meaning: severance, decline, refuse, apologize, warn, dismiss, prohibit, decision, judgement, cutting
+
+境~kun: さかい
+on: キョウ, ケイ
+meaning: boundary, border, region
+
+規~kun: さかい
+on: キ
+meaning: standard, measure
+
+術~kun: すべ
+on: ジュツ
+meaning: art, technique, skill, means, trick, resources, magic
+
+導~kun: みちび.く
+on: ドウ
+meaning: guidance, leading, conduct, usher
+
+備~kun: そな.える, そな.わる, つぶさ.に
+on: ビ
+meaning: equip, provision, preparation
+
+貸~kun: か.す, か.し-, かし-
+on: タイ
+meaning: lend
+
+輸~kun: か.す, か.し-, かし-
+on: ユ, シュ
+meaning: transport, send, be inferior
+
+述~kun: の.べる
+on: ジュツ
+meaning: mention, state, speak, relate
+
+武~kun: たけ.し
+on: ブ, ム
+meaning: warrior, military, chivalry, arms
+
+限~kun: かぎ.る, かぎ.り, -かぎ.り
+on: ゲン
+meaning: limit, restrict, to best of ability
+
+額~kun: ひたい
+on: ガク
+meaning: forehead, tablet, plaque, framed picture, sum, amount, volume
+
+退~kun: しりぞ.く, しりぞ.ける, ひ.く, の.く, の.ける, ど.く
+on: タイ
+meaning: retreat, withdraw, retire, resign, repel, expel, reject
+
+準~kun: じゅん.じる, じゅん.ずる, なぞら.える, のり, ひと.しい, みずもり
+on: ジュン
+meaning: semi-, correspond to, proportionate to, conform, imitate
+
+造~kun: つく.る, つく.り, -づく.り
+on: ゾウ
+meaning: create, make, structure, physique
+
+技~kun: わざ
+on: ギ
+meaning: skill, art, craft, ability, feat, performance, vocation, arts
+
+復~kun: また
+on: フク
+meaning: restore, return to, revert, resume
+
+移~kun: うつ.る, うつ.す
+on: イ
+meaning: shift, move, change, drift, catch (cold, fire), pass into
+
+個~kun: うつ.る, うつ.す
+on: コ, カ
+meaning: individual, counter for articles
+
+非~kun: あら.ず
+on: ヒ
+meaning: un-, mistake, negative, injustice, non-
+
+財~kun: たから
+on: ザイ, サイ, ゾク
+meaning: property, money, wealth, assets
+
+識~kun: し.る, しる.す
+on: シキ
+meaning: discriminating, know, write
+
+程~kun: ほど, -ほど
+on: テイ
+meaning: extent, degree, law, formula, distance, limits, amount
+
+接~kun: つ.ぐ
+on: セツ, ショウ
+meaning: touch, contact, adjoin, piece together
+
+効~kun: き.く, ききめ, なら.う
+on: コウ
+meaning: merit, efficacy, efficiency, benefit
+
+旧~kun: ふる.い, もと
+on: キュウ
+meaning: old times, old things, old friend, former, ex-
+
+師~kun: もろもろ, なら.う
+on: シ, ス
+meaning: expert, teacher, master, model, exemplar, army (incl. counter), war
+
+易~kun: やさ.しい, やす.い
+on: エキ, イ
+meaning: easy, ready to, simple, fortune-telling, divination
+
+券~kun: やさ.しい, やす.い
+on: ケン
+meaning: ticket
+
+破~kun: やぶ.る, やぶ.れる
+on: ハ
+meaning: rend, rip, tear, break, destroy, defeat, frustrate
+
+編~kun: あ.む, -あ.み
+on: ヘン
+meaning: compilation, knit, plait, braid, twist, editing, completed poem, part of a book
+
+責~kun: せ.める
+on: セキ
+meaning: blame, condemn, censure
+
+採~kun: と.る
+on: サイ
+meaning: pick, take, fetch, take up
+
+因~kun: よ.る, ちな.む
+on: イン
+meaning: cause, factor, be associated with, depend on, be limited to
+
+富~kun: と.む, とみ
+on: フ, フウ
+meaning: wealth, enrich, abundant
+
+貿~kun: と.む, とみ
+on: ボウ
+meaning: trade, exchange
+
+講~kun: と.む, とみ
+on: コウ
+meaning: lecture, club, association
+
+河~kun: かわ
+on: カ
+meaning: river
+
+適~kun: かな.う
+on: テキ
+meaning: suitable, occasional, rare, qualified, capable
+
+婦~kun: よめ
+on: フ
+meaning: lady, woman, wife, bride
+
+寄~kun: よ.る, -よ.り, よ.せる
+on: キ
+meaning: draw near, stop in, bring near, gather, collect, send, forward
+
+余~kun: あま.る, あま.り, あま.す, あんま.り
+on: ヨ
+meaning: too much, myself, surplus, other, remainder
+
+禁~kun: あま.る, あま.り, あま.す, あんま.り
+on: キン
+meaning: prohibition, ban, forbid
+
+逆~kun: さか, さか.さ, さか.らう
+on: ギャク, ゲキ
+meaning: inverted, reverse, opposite, wicked
+
+久~kun: ひさ.しい
+on: キュウ, ク
+meaning: long time, old story
+
+妻~kun: つま
+on: サイ
+meaning: wife, spouse
+
+暴~kun: あば.く, あば.れる
+on: ボウ, バク
+meaning: outburst, rave, fret, force, violence, cruelty, outrage
+
+険~kun: けわ.しい
+on: ケン
+meaning: precipitous, inaccessible place, impregnable position, steep place, sharp eyes
+
+均~kun: なら.す
+on: キン
+meaning: level, average
+
+圧~kun: お.す, へ.す, おさ.える, お.さえる
+on: アツ, エン, オウ
+meaning: pressure, push, overwhelm, oppress, dominate
+
+許~kun: ゆる.す, もと
+on: キョ
+meaning: permit, approve
+
+留~kun: と.める, と.まる, とど.める, とど.まる, るうぶる
+on: リュウ, ル
+meaning: detain, fasten, halt, stop
+
+罪~kun: つみ
+on: ザイ
+meaning: guilt, sin, crime, fault, blame, offense
+
+統~kun: す.べる, ほび.る
+on: トウ
+meaning: overall, relationship, ruling, governing
+
+精~kun: す.べる, ほび.る
+on: セイ, ショウ, シヤウ
+meaning: refined, ghost, fairy, energy, vitality, semen, excellence, purity, skill
+
+則~kun: のっと.る
+on: ソク
+meaning: rule, follow, based on, model after
+
+測~kun: はか.る
+on: ソク
+meaning: fathom, plan, scheme, measure
+
+豊~kun: ゆた.か, とよ
+on: ホウ, ブ
+meaning: bountiful, excellent, rich
+
+厚~kun: あつ.い, あか
+on: コウ
+meaning: thick, heavy, rich, kind, cordial, brazen, shameless
+
+保~kun: たも.つ
+on: ホ, ホウ
+meaning: protect, guarantee, keep, preserve, sustain, support
+
+略~kun: ほぼ, おか.す, おさ.める, はかりごと, はか.る, はぶ.く, りゃく.す, りゃく.する
+on: リャク
+meaning: abbreviation, omission, outline, shorten, capture, plunder
+
+承~kun: うけたまわ.る, う.ける, ささ.げる, とど.める, たす.ける, こ.らす, つい.で, すく.う
+on: ショウ, ジョウ
+meaning: acquiesce, hear, listen to, be informed, receive
+
+絶~kun: た.える, た.やす, た.つ
+on: ゼツ
+meaning: discontinue, beyond, sever, cut off, abstain, interrupt, suppress
+
+版~kun: た.える, た.やす, た.つ
+on: ハン
+meaning: printing block, printing plate, edition, impression, label
+
+損~kun: そこ.なう, そこな.う, -そこ.なう, そこ.ねる, -そこ.ねる
+on: ソン
+meaning: damage, loss, disadvantage, hurt, injure
+
+仏~kun: ほとけ
+on: ブツ, フツ
+meaning: Buddha, the dead, France
+
+績~kun: ほとけ
+on: セキ
+meaning: exploits, unreeling cocoons
+
+築~kun: きず.く
+on: チク
+meaning: fabricate, build, construct
+
+混~kun: ま.じる, -ま.じり, ま.ざる, ま.ぜる, こ.む
+on: コン
+meaning: mix, blend, confuse
+
+居~kun: い.る, -い, お.る
+on: キョ, コ
+meaning: reside, to be, exist, live with
+
+雑~kun: まじ.える, まじ.る
+on: ザツ, ゾウ
+meaning: miscellaneous
+
+招~kun: まね.く
+on: ショウ
+meaning: beckon, invite, summon, engage
+
+永~kun: なが.い
+on: エイ
+meaning: eternity, long, lengthy
+
+刊~kun: なが.い
+on: カン
+meaning: publish, carve, engrave
+
+像~kun: なが.い
+on: ゾウ
+meaning: statue, picture, image, figure, portrait
+
+基~kun: もと, もとい
+on: キ
+meaning: fundamentals, radical (chem), counter for machines, foundation
+
+賛~kun: たす.ける, たた.える
+on: サン
+meaning: approve, praise, title or inscription on picture, assist, agree with
+
+犯~kun: おか.す
+on: ハン, ボン
+meaning: crime, sin, offense
+
+価~kun: あたい
+on: カ, ケ
+meaning: value, price
+
+布~kun: ぬの
+on: フ
+meaning: linen, cloth
+
+提~kun: さ.げる
+on: テイ, チョウ, ダイ
+meaning: propose, take along, carry in hand
+
+応~kun: あた.る, まさに, こた.える
+on: オウ, ヨウ, -ノウ
+meaning: apply, answer, yes, OK, reply, accept
+
+検~kun: しら.べる
+on: ケン
+meaning: examination, investigate
+
+複~kun: しら.べる
+on: フク
+meaning: duplicate, double, compound, multiple
+
+似~kun: に.る, ひ.る
+on: ジ
+meaning: becoming, resemble, counterfeit, imitate, suitable
+
+証~kun: あかし
+on: ショウ
+meaning: evidence, proof, certificate
+
+迷~kun: まよ.う
+on: メイ
+meaning: astray, be perplexed, in doubt, lost, err, illusion
+
+夢~kun: ゆめ, ゆめ.みる, くら.い
+on: ム, ボウ
+meaning: dream, vision, illusion
+
+燃~kun: も.える, も.やす, も.す
+on: ネン
+meaning: burn, blaze, glow
+
+護~kun: まも.る
+on: ゴ
+meaning: safeguard, protect
+
+態~kun: わざ.と
+on: タイ
+meaning: attitude, condition, figure, appearance, voice (of verbs)
+
+預~kun: あず.ける, あず.かる
+on: ヨ
+meaning: deposit, custody, leave with, entrust to
+
+条~kun: えだ, すじ
+on: ジョウ, チョウ, デキ
+meaning: article, clause, item, stripe, streak
+
+幹~kun: みき
+on: カン
+meaning: tree trunk
+
+独~kun: ひと.り
+on: ドク, トク
+meaning: single, alone, spontaneously, Germany
+
+率~kun: ひき.いる
+on: ソツ, リツ, シュツ
+meaning: ratio, rate, proportion, %, coefficient, factor
+
+群~kun: む.れる, む.れ, むら, むら.がる
+on: グン
+meaning: flock, group, crowd, herd, swarm, cluster
+
+衛~kun: む.れる, む.れ, むら, むら.がる
+on: エイ, エ
+meaning: defense, protection
+
+張~kun: は.る, -は.り, -ば.り
+on: チョウ
+meaning: lengthen, counter for bows & stringed instruments, stretch, spread, put up (tent)
+
+義~kun: は.る, -は.り, -ば.り
+on: ギ
+meaning: righteousness, justice, morality, honor, loyalty, meaning
+
+快~kun: こころよ.い
+on: カイ
+meaning: cheerful, pleasant, agreeable, comfortable
+
+評~kun: こころよ.い
+on: ヒョウ
+meaning: evaluate, criticism, comment
+
+製~kun: こころよ.い
+on: セイ
+meaning: made in..., manufacture
+
+授~kun: さず.ける, さず.かる
+on: ジュ
+meaning: impart, instruct, grant, confer
+
+慣~kun: な.れる, な.らす
+on: カン
+meaning: accustomed, get used to, become experienced
+
+液~kun: な.れる, な.らす
+on: エキ
+meaning: fluid, liquid, juice, sap, secretion
+
+貧~kun: まず.しい
+on: ヒン, ビン
+meaning: poverty, poor
+
+祖~kun: まず.しい
+on: ソ
+meaning: ancestor, pioneer, founder
+
+修~kun: おさ.める, おさ.まる
+on: シュウ, シュ
+meaning: discipline, conduct oneself well, study, master
+
+織~kun: お.る, お.り, おり, -おり, -お.り
+on: ショク, シキ
+meaning: weave, fabric
+
+故~kun: ゆえ, ふる.い, もと
+on: コ
+meaning: happenstance, especially, intentionally, reason, cause, circumstances, the late, therefore, consequently
+
+弁~kun: わきま.える, わ.ける, はなびら, あらそ.う
+on: ベン, ヘン
+meaning: valve, petal, braid, speech, dialect, discrimination, dispose of, distinguish
+
+素~kun: もと
+on: ソ, ス
+meaning: elementary, principle, naked, uncovered
+
+益~kun: ま.す
+on: エキ, ヤク
+meaning: benefit, gain, profit, advantage
+
+興~kun: おこ.る, おこ.す
+on: コウ, キョウ
+meaning: entertain, revive, retrieve, interest, pleasure
+
+鉱~kun: あらがね
+on: コウ
+meaning: mineral, ore
+
+枝~kun: えだ
+on: シ
+meaning: bough, branch, twig, limb, counter for branches
+
+志~kun: シリング, こころざ.す, こころざし
+on: シ
+meaning: intention, plan, resolve, aspire, motive, hopes, shilling
+
+綿~kun: わた
+on: メン
+meaning: cotton
+
+銅~kun: あかがね
+on: ドウ
+meaning: copper
+
+属~kun: さかん, つく, やから
+on: ゾク, ショク
+meaning: belong, genus, subordinate official, affiliated
+
+耕~kun: たがや.す
+on: コウ
+meaning: till, plow, cultivate
+
+災~kun: わざわ.い
+on: サイ
+meaning: disaster, calamity, woe, curse, evil
+
+銭~kun: ぜに, すき
+on: セン, ゼン
+meaning: coin, .01 yen, money
+
+謝~kun: あやま.る
+on: シャ
+meaning: apologize, thank, refuse
+
+仮~kun: かり, かり-
+on: カ, ケ
+meaning: sham, temporary, interim, assumed (name), informal
+
+賀~kun: かり, かり-
+on: ガ
+meaning: congratulations, joy
+
+徳~kun: かり, かり-
+on: トク
+meaning: benevolence, virtue, goodness, commanding respect
+
+序~kun: つい.で, ついで
+on: ジョ
+meaning: preface, beginning, order, precedence, occasion, chance, incidentally
+
+舎~kun: やど.る
+on: シャ, セキ
+meaning: cottage, inn, hut, house, mansion
+
+敵~kun: かたき, あだ, かな.う
+on: テキ
+meaning: enemy, foe, opponent
+
+酸~kun: す.い
+on: サン
+meaning: acid, bitterness, sour, tart
+
+桜~kun: さくら
+on: オウ, ヨウ
+meaning: cherry
+
+句~kun: さくら
+on: ク
+meaning: phrase, clause, sentence, passage, paragraph, counter for haiku
+
+墓~kun: はか
+on: ボ
+meaning: grave, tomb
+
+飼~kun: か.う
+on: シ
+meaning: domesticate, raise, keep, feed
+
+恩~kun: か.う
+on: オン
+meaning: grace, kindness, goodness, favor, mercy, blessing, benefit
+
+往~kun: い.く, いにしえ, さき.に, ゆ.く
+on: オウ
+meaning: journey, chase away, let go, going, travel
+
+肥~kun: こ.える, こえ, こ.やす, こ.やし, ふと.る
+on: ヒ
+meaning: fertilizer, get fat, fertile, manure, pamper
+
+俵~kun: たわら
+on: ヒョウ
+meaning: bag, bale, sack, counter for bags
+
+眼~kun: まなこ, め
+on: ガン, ゲン
+meaning: eyeball
+
+潔~kun: いさぎよ.い
+on: ケツ
+meaning: undefiled, pure, clean, righteous, gallant
+
+舌~kun: した
+on: ゼツ
+meaning: tongue, reed, clapper
+

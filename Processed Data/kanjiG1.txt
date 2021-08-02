@@ -1,0 +1,320 @@
+日~kun: ひ, -び, -か
+on: ニチ, ジツ
+meaning: day, sun, Japan, counter for days
+
+一~kun: ひと-, ひと.つ
+on: イチ, イツ
+meaning: one, one radical (no.1)
+
+人~kun: ひと, -り, -と
+on: ジン, ニン
+meaning: person
+
+年~kun: とし
+on: ネン
+meaning: year, counter for years
+
+大~kun: おお-, おお.きい, -おお.いに
+on: ダイ, タイ
+meaning: large, big
+
+十~kun: とお, と
+on: ジュウ, ジッ, ジュッ
+meaning: ten
+
+二~kun: ふた, ふた.つ, ふたた.び
+on: ニ, ジ
+meaning: two, two radical (no.2)
+
+本~kun: もと
+on: ホン
+meaning: book, present, main, true, real, counter for long cylindrical things
+
+中~kun: なか, うち, あた.る
+on: チュウ
+meaning: in, inside, middle, mean, center
+
+出~kun: で.る, -で, だ.す, -だ.す, い.でる, い.だす
+on: シュツ, スイ
+meaning: exit, leave
+
+三~kun: み, み.つ, みっ.つ
+on: サン, ゾウ
+meaning: three
+
+見~kun: み.る, み.える, み.せる
+on: ケン
+meaning: see, hopes, chances, idea, opinion, look at, visible
+
+月~kun: つき
+on: ゲツ, ガツ
+meaning: month, moon
+
+生~kun: い.きる, い.かす, い.ける, う.まれる, う.まれ, うまれ, う.む, お.う, は.える, は.やす, き, なま, なま-, な.る, な.す, む.す, -う
+on: セイ, ショウ
+meaning: life, genuine, birth
+
+五~kun: いつ, いつ.つ
+on: ゴ
+meaning: five
+
+上~kun: うえ, -うえ, うわ-, かみ, あ.げる, -あ.げる, あ.がる, -あ.がる, あ.がり, -あ.がり, のぼ.る, のぼ.り, のぼ.せる, のぼ.す, よ.す
+on: ジョウ, ショウ, シャン
+meaning: above, up
+
+四~kun: よ, よ.つ, よっ.つ, よん
+on: シ
+meaning: four
+
+金~kun: かね, かな-, -がね
+on: キン, コン, ゴン
+meaning: gold
+
+九~kun: ここの, ここの.つ
+on: キュウ, ク
+meaning: nine
+
+入~kun: い.る, -い.る, -い.り, い.れる, -い.れ, はい.る
+on: ニュウ, ジュ
+meaning: enter, insert
+
+学~kun: まな.ぶ
+on: ガク
+meaning: study, learning, science
+
+円~kun: まる.い, まる, まど, まど.か, まろ.やか
+on: エン
+meaning: circle, yen, round
+
+子~kun: こ, -こ, ね
+on: シ, ス, ツ
+meaning: child, sign of the rat, 11PM-1AM, first sign of Chinese zodiac
+
+八~kun: や, や.つ, やっ.つ, よう
+on: ハチ
+meaning: eight, eight radical (no. 12)
+
+六~kun: む, む.つ, むっ.つ, むい
+on: ロク, リク
+meaning: six
+
+下~kun: した, しも, もと, さ.げる, さ.がる, くだ.る, くだ.り, くだ.す, -くだ.す, くだ.さる, お.ろす, お.りる
+on: カ, ゲ
+meaning: below, down, descend, give, low, inferior
+
+気~kun: いき
+on: キ, ケ
+meaning: spirit, mind, air, atmosphere, mood
+
+小~kun: ちい.さい, こ-, お-, さ-
+on: ショウ
+meaning: little, small
+
+七~kun: なな, なな.つ, なの
+on: シチ
+meaning: seven
+
+山~kun: やま
+on: サン, セン
+meaning: mountain
+
+女~kun: おんな, め
+on: ジョ, ニョ, ニョウ
+meaning: woman, female
+
+百~kun: もも
+on: ヒャク, ビャク
+meaning: hundred
+
+先~kun: さき, ま.ず
+on: セン
+meaning: before, ahead, previous, future, precedence
+
+名~kun: な, -な
+on: メイ, ミョウ
+meaning: name, noted, distinguished, reputation
+
+川~kun: かわ
+on: セン
+meaning: stream, river, river or 3-stroke river radical (no. 47)
+
+千~kun: ち
+on: セン
+meaning: thousand
+
+水~kun: みず, みず-
+on: スイ
+meaning: water
+
+男~kun: おとこ, お
+on: ダン, ナン
+meaning: male
+
+校~kun: おとこ, お
+on: コウ, キョウ
+meaning: exam, school, printing, proof, correction
+
+土~kun: つち
+on: ド, ト
+meaning: soil, earth, ground, Turkey
+
+木~kun: き, こ-
+on: ボク, モク
+meaning: tree, wood
+
+車~kun: くるま
+on: シャ
+meaning: car
+
+白~kun: しろ, しら-, しろ.い
+on: ハク, ビャク
+meaning: white
+
+天~kun: あまつ, あめ, あま-
+on: テン
+meaning: heavens, sky, imperial
+
+火~kun: ひ, -び, ほ-
+on: カ
+meaning: fire
+
+右~kun: みぎ
+on: ウ, ユウ
+meaning: right
+
+左~kun: ひだり
+on: サ, シャ
+meaning: left
+
+休~kun: やす.む, やす.まる, やす.める
+on: キュウ
+meaning: rest, day off, retire, sleep
+
+立~kun: た.つ, -た.つ, た.ち-, た.てる, -た.てる, た.て-, たて-, -た.て, -だ.て, -だ.てる
+on: リツ, リュウ, リットル
+meaning: stand up
+
+手~kun: て, て-, -て, た-
+on: シュ, ズ
+meaning: hand
+
+力~kun: ちから
+on: リョク, リキ, リイ
+meaning: power, strong, strain, bear up, exert
+
+目~kun: め, -め, ま-
+on: モク, ボク
+meaning: eye, class, look, insight, experience, care, favor
+
+田~kun: た
+on: デン
+meaning: rice field, rice paddy
+
+正~kun: ただ.しい, ただ.す, まさ, まさ.に
+on: セイ, ショウ
+meaning: correct, justice, righteous, 10**40
+
+文~kun: ふみ, あや
+on: ブン, モン
+meaning: sentence, literature, style, art, decoration, figures, plan, literary radical (no. 67)
+
+口~kun: くち
+on: コウ, ク
+meaning: mouth
+
+町~kun: まち
+on: チョウ
+meaning: town, village, block, street
+
+空~kun: そら, あ.く, あ.き, あ.ける, から, す.く, す.かす, むな.しい
+on: クウ
+meaning: empty, sky, void, vacant, vacuum
+
+雨~kun: あめ, あま-, -さめ
+on: ウ
+meaning: rain
+
+足~kun: あし, た.りる, た.る, た.す
+on: ソク
+meaning: leg, foot, be sufficient, counter for pairs of footwear
+
+早~kun: はや.い, はや, はや-, はや.まる, はや.める, さ-
+on: ソウ, サッ
+meaning: early, fast
+
+字~kun: あざ, あざな, -な
+on: ジ
+meaning: character, letter, word, section of village
+
+音~kun: おと, ね
+on: オン, イン, -ノン
+meaning: sound, noise
+
+花~kun: はな
+on: カ, ケ
+meaning: flower
+
+赤~kun: あか, あか-, あか.い, あか.らむ, あか.らめる
+on: セキ, シャク
+meaning: red
+
+青~kun: あお, あお-, あお.い
+on: セイ, ショウ
+meaning: blue, green
+
+村~kun: むら
+on: ソン
+meaning: village, town
+
+夕~kun: ゆう
+on: セキ
+meaning: evening
+
+石~kun: いし
+on: セキ, シャク, コク
+meaning: stone
+
+竹~kun: たけ
+on: チク
+meaning: bamboo
+
+森~kun: もり
+on: シン
+meaning: forest, woods
+
+林~kun: はやし
+on: リン
+meaning: grove, forest
+
+王~kun: はやし
+on: オウ, -ノウ
+meaning: king, rule, magnate
+
+犬~kun: いぬ, いぬ-
+on: ケン
+meaning: dog
+
+玉~kun: たま, たま-, -だま
+on: ギョク
+meaning: jewel, ball
+
+草~kun: くさ, くさ-, -ぐさ
+on: ソウ
+meaning: grass, weeds, herbs, pasture, write, draft
+
+耳~kun: みみ
+on: ジ
+meaning: ear
+
+虫~kun: むし
+on: チュウ, キ
+meaning: insect, bug, temper
+
+糸~kun: いと
+on: シ
+meaning: thread
+
+貝~kun: かい
+on: バイ
+meaning: shellfish
+
